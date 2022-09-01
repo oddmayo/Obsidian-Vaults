@@ -6,5 +6,6 @@
   "better-word-count",
   "obsidian-pandoc",
   "cm-editor-syntax-highlight-obsidian",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-excalidraw-plugin"
 ]
