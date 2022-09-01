@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "7e18a0b2fc90875e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f83ef40733e8e4b",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f56d8ad1c9865f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc36ca80d7771eb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e2eed2c51c78be2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f81aa3a4bca6adf2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f1c758fddd0d519",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e584ad20106ecef1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1338bb4024ed2aab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "213815781dc517ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29f4b999396431a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08224a1895755015",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9743c908229cb7b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "e41e86ecca0bba7b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8c039deb80b0f066",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "2f83ef40733e8e4b",
+  "lastOpenFiles": [
+    "Statistical Learning/SL3 - Linear Regression.md",
+    "Statistical Learning/SL1 - Introduction.md",
+    "Statistical Learning/SL2 - Statistical Learning.md",
+    "Statistical Learning/SL4 - Lab 1 - Linear Reg.md",
+    "2022-09-01.md",
+    "Z-Images/Pasted image 20220831151516.png",
+    "Untitled 1.md",
+    "Z-Images/Pasted image 20220831165450.png",
+    "Z-Images/Pasted image 20220831155703.png",
+    "Z-Images/Pasted image 20220831155415.png"
+  ]
+}
