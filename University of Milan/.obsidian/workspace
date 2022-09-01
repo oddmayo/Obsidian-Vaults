@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Statistical Learning/SL4 - Lab 1 - Linear Reg.md",
+            "file": "Statistical Learning/SL4 - Lab - Linear Reg.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistical Learning/SL4 - Lab 1 - Linear Reg.md",
+                "file": "Statistical Learning/SL4 - Lab - Linear Reg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistical Learning/SL4 - Lab 1 - Linear Reg.md",
+                "file": "Statistical Learning/SL4 - Lab - Linear Reg.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistical Learning/SL4 - Lab 1 - Linear Reg.md"
+                "file": "Statistical Learning/SL4 - Lab - Linear Reg.md"
               }
             }
           },
@@ -130,7 +130,15 @@
             }
           },
           {
-            "id": "8c039deb80b0f066",
+            "id": "fe8da13ddc1fb47f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2591e9ffa5c33921",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -138,23 +146,24 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "5dfec01bfe4bb0ef",
   "lastOpenFiles": [
-    "Statistical Learning/SL3 - Linear Regression.md",
-    "Statistical Learning/SL4 - Lab 1 - Linear Reg.md",
-    "Statistical Learning/SL2 - Statistical Learning.md",
+    "Statistical Learning/SL4 - Lab - Linear Reg.md",
     "Statistical Learning/SL1 -Introduction.md",
+    "Statistical Learning/SL3 - Linear Regression.md",
+    "Statistical Learning/SL2 - Statistical Learning.md",
+    "nano.md",
     "2022-09-01.md",
     "Z-Images/Pasted image 20220831151516.png",
     "Untitled 1.md",
     "Z-Images/Pasted image 20220831165450.png",
-    "Z-Images/Pasted image 20220831155703.png",
-    "Z-Images/Pasted image 20220831155415.png"
+    "Z-Images/Pasted image 20220831155703.png"
   ]
 }
