@@ -100,7 +100,9 @@ It represents a statistical regularity and not a proper representation of CB's b
 
 It's popular because it helps CBs to communicate about the path of short teerm nominal interest rates, making the CB more credible
 
-## The Taylor principle (necessary for macro stability within our AD-AS model) $\pi_t \rightarrow \overline{\pi}$  
+## The #taylor_principle (necessary for macro stability within our AD-AS model) $\pi_t \rightarrow \overline{\pi}$  
+
+[[Macro4 - AD-AS Eq.]]
 
 The CB's target for the nominal interest rate should react more than one-for-one to inflation
 

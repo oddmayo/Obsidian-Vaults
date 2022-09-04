@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Advanced Macroeconomics/Macro5 - Monetary Policy.md",
+            "file": "Advanced Macroeconomics/Macro6 - The Liquidity Trap.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Macroeconomics/Macro5 - Monetary Policy.md",
+                "file": "Advanced Macroeconomics/Macro6 - The Liquidity Trap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Macroeconomics/Macro5 - Monetary Policy.md",
+                "file": "Advanced Macroeconomics/Macro6 - The Liquidity Trap.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Macroeconomics/Macro5 - Monetary Policy.md"
+                "file": "Advanced Macroeconomics/Macro6 - The Liquidity Trap.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   "active": "5dfec01bfe4bb0ef",
   "lastOpenFiles": [
     "Advanced Macroeconomics/Macro4 - AD-AS Eq..md",
+    "Advanced Macroeconomics/Macro6 - The Liquidity Trap.md",
     "Advanced Macroeconomics/Macro5 - Monetary Policy.md",
     "Advanced Macroeconomics/Macro3 - Aggregare Suply.md",
     "Advanced Macroeconomics/Macro2 - Aggregate Demand.md",
@@ -164,7 +165,6 @@
     "Advanced Microeconomics/Micro1 - Introduction.md",
     "Statistical Learning/SL4 - Lab - Linear Reg.md",
     "Statistical Learning/SL1 -Introduction.md",
-    "Statistical Learning/SL3 - Linear Regression.md",
-    "Statistical Learning/SL2 - Statistical Learning.md"
+    "Statistical Learning/SL3 - Linear Regression.md"
   ]
 }
