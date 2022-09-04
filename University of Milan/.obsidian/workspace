@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e584ad20106ecef1",
@@ -156,6 +155,7 @@
   },
   "active": "5dfec01bfe4bb0ef",
   "lastOpenFiles": [
+    "Advanced Macroeconomics/Macro7 - Unconventional MP.md",
     "Advanced Macroeconomics/Macro6 - The Liquidity Trap.md",
     "Advanced Macroeconomics/Macro4 - AD-AS Eq..md",
     "Advanced Macroeconomics/Macro5 - Monetary Policy.md",
@@ -164,7 +164,6 @@
     "Advanced Macroeconomics/Macro1 - Introduction.md",
     "Advanced Microeconomics/Micro1 - Introduction.md",
     "Statistical Learning/SL4 - Lab - Linear Reg.md",
-    "Statistical Learning/SL1 -Introduction.md",
-    "Statistical Learning/SL3 - Linear Regression.md"
+    "Statistical Learning/SL1 -Introduction.md"
   ]
 }
