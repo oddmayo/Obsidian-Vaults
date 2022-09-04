@@ -72,7 +72,7 @@ Summary:
 ### Ricardian household
 ![[Pasted image 20220902195534.png]]
 
-### Ricardian households
+### Keynesian households
 ![[Pasted image 20220902195942.png]]
 
 ---

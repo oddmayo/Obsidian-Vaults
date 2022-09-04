@@ -4,16 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "5dfec01bfe4bb0ef",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Advanced Macroeconomics/Macro4 - AD-AS Eq..md",
-            "mode": "source",
-            "source": false
+        "id": "1667568eb704d1d8",
+        "type": "split",
+        "children": [
+          {
+            "id": "5dfec01bfe4bb0ef",
+            "type": "leaf",
+            "dimension": 58.549222797927456,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced Macroeconomics/Macro2 - Aggregate Demand.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abf192cfab9794cd",
+            "type": "leaf",
+            "dimension": 41.45077720207254,
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -61,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e584ad20106ecef1",
@@ -78,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Macroeconomics/Macro4 - AD-AS Eq..md",
+                "file": "Advanced Macroeconomics/Macro2 - Aggregate Demand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Macroeconomics/Macro4 - AD-AS Eq..md",
+                "file": "Advanced Macroeconomics/Macro2 - Aggregate Demand.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Macroeconomics/Macro4 - AD-AS Eq..md"
+                "file": "Advanced Macroeconomics/Macro2 - Aggregate Demand.md"
               }
             }
           },
@@ -154,12 +170,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9e2eed2c51c78be2",
+  "active": "5dfec01bfe4bb0ef",
   "lastOpenFiles": [
-    "Advanced Macroeconomics/Macro3 - Aggregare Suply.md",
-    "Advanced Macroeconomics/Macro4 - AD-AS Eq..md",
-    "Advanced Macroeconomics/Macro2 - Aggregate Demand.md",
     "Advanced Macroeconomics/Macro1 - Introduction.md",
+    "Advanced Macroeconomics/Macro4 - AD-AS Eq..md",
+    "Advanced Macroeconomics/Macro3 - Aggregare Suply.md",
+    "Advanced Macroeconomics/Macro2 - Aggregate Demand.md",
     "Advanced Microeconomics/Micro1 - Introduction.md",
     "Statistical Learning/SL4 - Lab - Linear Reg.md",
     "Statistical Learning/SL1 -Introduction.md",
