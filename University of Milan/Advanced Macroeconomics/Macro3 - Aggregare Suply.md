@@ -63,7 +63,7 @@ Any change in demand $y^n$ that mismatches its natural level its going to be ful
 
 So *demand is entirely determined by supply* and **supply is determined by real factors: technology and structure** 
 
-## 4. Nominal price rigidities
+## 4. Nominal price #rigidities
 Nominal prices are sticky in the short run
 After a macroeconomic #shocks, only some firms adjust their selling prices
 

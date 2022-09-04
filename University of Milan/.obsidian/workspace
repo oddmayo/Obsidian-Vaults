@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#rigidities",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e584ad20106ecef1",
@@ -153,9 +154,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5dfec01bfe4bb0ef",
+  "active": "9e2eed2c51c78be2",
   "lastOpenFiles": [
     "Advanced Macroeconomics/Macro3 - Aggregare Suply.md",
+    "Advanced Macroeconomics/Macro4 - AD-AS Eq..md",
     "Advanced Macroeconomics/Macro2 - Aggregate Demand.md",
     "Advanced Macroeconomics/Macro1 - Introduction.md",
     "Advanced Microeconomics/Micro1 - Introduction.md",
@@ -163,7 +165,6 @@
     "Statistical Learning/SL1 -Introduction.md",
     "Statistical Learning/SL3 - Linear Regression.md",
     "Statistical Learning/SL2 - Statistical Learning.md",
-    "nano.md",
-    "2022-09-01.md"
+    "nano.md"
   ]
 }
