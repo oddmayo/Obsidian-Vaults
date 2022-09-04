@@ -19,7 +19,7 @@
 * *Shocks vanished* $\theta_\infty ,y_{\infty}^n$ constant  
 * *optimal prices* $p_{i,\infty}=p_\infty^*$ 
 
-Aggregate supply $y_\infty= y_\infty^n=z_\infty-\zeta\mu^*$ 
+Aggregate supply $y_\infty= y_\infty^n=z_\infty-\xi\mu^*$ 
 Aggregate demand $y_\infty= y_\infty^n$ (through prices)
 
 **Equilibrium** is entirely *determined by supply*
@@ -85,7 +85,7 @@ Empirically the data says that an increase in productivity $z_t \uparrow$ :
 - *long run:* gradual reversion of employment towards its pre-shock level
 
 **In the model**
-In the *long run* employment is at the #natural level $l^n=\zeta \mu^*$ so if $l_t$ deviates from $l^n$ in the short run it returns to it in the long run
+In the *long run* employment is at the #natural level $l^n=\xi \mu^*$ so if $l_t$ deviates from $l^n$ in the short run it returns to it in the long run
 
 In the *long run* ![[Pasted image 20220904124312.png]]
 The AD-AS model can **replicate short run effects of** $dz_t$:
