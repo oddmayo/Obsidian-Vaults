@@ -30,7 +30,7 @@ A *rational agent* weights costs and benefits and *maximizes expected lifetime u
 - **Marginal rate of intertemporal substitution**
 - **Exponential discounting model**
 
-### Standard theory: exponential discounting
+### Standard theory: #exponential_discounting
 ![[Pasted image 20220906180324.png]]
 
 ![[Pasted image 20220906180500.png]]
@@ -154,3 +154,109 @@ More intuitive and with psychological foundations
 ![[Pasted image 20220906185457.png]]
 
 ## Sophistication and naivite: models, implications
+### Naivite vs sophistication
+Are individuals aware of their self-control problems?
+$\hat{\beta}$ **own belief** about own present-bias parameter $\beta$
+
+**Naive**: $\hat{\beta} = 1$
+**Sophisticated**: $\hat{\beta} \in [\beta,1)$
+![[Pasted image 20220906185852.png]]
+
+### O'Donoghue and Rabin (1999)
+
+**Inmediate cost**
+- Time consistent never regret
+- Naifs regret to a full extent; large *welfare loss*
+- Sophistication pays off
+
+**Inmediate reward**
+- Time consistent do the right thing
+- Naifs preproperate *welfare loss*
+- Sophisticates preproperate too due to *realistic pessimism*
+
+Naifs both procrastinate and preproperate
+Sophisticates preproperate
+Time inconsisteny, not impatience
+
+**Time consistent**: doesn´t matter whether start at the *beginning* (naifs) or at the *end* (sophisticates)
+
+## Self-control: model, implications
+### Gul and Pessendorfer (2001)
+![[Pasted image 20220906190901.png]]
+
+**Demand for commitment**: I would have rather avoided having the tempting option on the menu:
+![[Pasted image 20220906190955.png]]
+
+*Present-biased type*: If I easily fall prey to self-control: **temptation whithout self-control**
+![[Pasted image 20220906191228.png]]
+*Self-control type*: I try to avoid exercising costly self-control
+![[Pasted image 20220906191203.png]]
+
+Clear **violation** of **rational decision making**
+![[Pasted image 20220906191342.png]]
+
+### Demand for commitment with dynamic consistency
+- Model different from **present bias**: no **preference reversals** and **dynamic inconsistency**
+- Implications for demand for commitment: here can be modelled with **dynamically consistent** preferences
+- Implications for **welfare analysis**: never improves
+- Cost of self-control may be individually specific
+
+### Self-control vs dynamic inconsistency
+- Both models result in **demand for commitment** (unless naive)
+- Can we tell the two apart?
+
+---
+---
+
+
+## Toussaert (2018): Eliciting temptation and self-control through menu choices: a lab experiment
+
+### Introduction
+
+Two alternative approaches to capturing self-control problems:
+1. **Present biased preferences**
+2. **menu-dependent preferences**  (self-control)
+
+**Both demmand for commitment**
+
+**One key disctintion**: 
+- Present-biased agents will choose to restrict future choice sets only if they expect to give in to temptation
+- self-control types may favor commitment even if they expect to resist temptation
+
+**Goal**: identify *control-types*
+**Policy relevance**: removing temptations could be *welfare enhancing*
+
+### Empirical challenges
+It requires to know:
+![[Pasted image 20220906192543.png]]
+
+**Solution**: Lab experiment
+
+### Generate temptations
+![[Pasted image 20220906192623.png]]
+
+### Reasons for commitment preference
+![[Pasted image 20220906192805.png]]
+
+
+![[Pasted image 20220906193105.png]]
+
+### Results
+![[Pasted image 20220906193152.png]]
+
+- Although self-control types do not succumb, the model suggest that *resisting temptation involves psychic costs*: impact on productivity
+
+### Summary
+![[Pasted image 20220906193331.png]]
+
+**Issues**: Does sophistication and self-control brek down in environments with high unvertainty?; Fairly artificial environment
+
+---
+
+## Lecture summary
+
+- Defined the concept of #exponential_discounting
+- Evidence inconsistent with a single $\delta$ parameter
+- *People demand commitment* (some sophistication, sime naivite)
+- quasi-hyperbolic preferences ($\beta \delta$) as one that better explains the world
+- Alternative models: costly self-control
