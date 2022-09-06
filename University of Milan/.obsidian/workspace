@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Advanced Microeconomics/Micro1 - Introduction.md",
+            "file": "Advanced Microeconomics/Micro2 - Time Preferences.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Microeconomics/Micro1 - Introduction.md",
+                "file": "Advanced Microeconomics/Micro2 - Time Preferences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Microeconomics/Micro1 - Introduction.md",
+                "file": "Advanced Microeconomics/Micro2 - Time Preferences.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Microeconomics/Micro1 - Introduction.md"
+                "file": "Advanced Microeconomics/Micro2 - Time Preferences.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   "active": "b9b633438e53fe72",
   "lastOpenFiles": [
     "Advanced Microeconomics/Micro1 - Introduction.md",
+    "Advanced Microeconomics/Micro2 - Time Preferences.md",
     "Advanced Microeconomics/Micro Exam Considerations.md",
     "Statistical Learning/SL1 -Introduction.md",
     "Statistical Learning/SL4 - Lab - Linear Reg.md",
@@ -164,7 +165,6 @@
     "Advanced Macroeconomics/Macro1 - Introduction.md",
     "Statistical Learning/SL2 - Statistical Learning.md",
     "Advanced Macroeconomics/Macro8 - Expectations and Lucas critique.md",
-    "Advanced Macroeconomics/Macro3 - Aggregate Suply.md",
-    "Advanced Macroeconomics/Macro7 - Unconventional MP.md"
+    "Advanced Macroeconomics/Macro3 - Aggregate Suply.md"
   ]
 }
