@@ -113,7 +113,7 @@ If *discount rate* is *decreasing over time* two implications
 1. **Violation of constant discount factor**
 	- Give in to *temptation*
 	- We indulge *short term gratification*
-2. **Demand for commitment**
+2. **Demand for #commitment**
 	- We *regret decisions made in the past* that affect present utility 
 
 ### Present bias and time inconsistency
