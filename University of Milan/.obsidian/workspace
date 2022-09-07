@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Advanced Microeconomics/Micro3  - TP Evidence.md",
+            "file": "Advanced Microeconomics/Micro4 - Uncertainty.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Microeconomics/Micro3  - TP Evidence.md",
+                "file": "Advanced Microeconomics/Micro4 - Uncertainty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Microeconomics/Micro3  - TP Evidence.md",
+                "file": "Advanced Microeconomics/Micro4 - Uncertainty.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Microeconomics/Micro3  - TP Evidence.md"
+                "file": "Advanced Microeconomics/Micro4 - Uncertainty.md"
               }
             }
           },
@@ -154,17 +154,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b9b633438e53fe72",
+  "active": "9e2eed2c51c78be2",
   "lastOpenFiles": [
-    "Advanced Microeconomics/Micro2 - Time Preferences.md",
-    "Advanced Microeconomics/Micro3  - TP Evidence.md",
-    "Advanced Microeconomics/Micro Exam Considerations.md",
     "Advanced Microeconomics/Micro1 - Introduction.md",
+    "Advanced Microeconomics/Micro4 - Uncertainty.md",
+    "Advanced Microeconomics/Micro3  - TP Evidence.md",
+    "Advanced Microeconomics/Micro2 - Time Preferences.md",
+    "Advanced Microeconomics/Micro Exam Considerations.md",
     "Statistical Learning/SL1 -Introduction.md",
     "Statistical Learning/SL4 - Lab - Linear Reg.md",
     "Statistical Learning/SL3 - Linear Regression.md",
     "Advanced Macroeconomics/Macro1 - Introduction.md",
-    "Statistical Learning/SL2 - Statistical Learning.md",
-    "Advanced Macroeconomics/Macro8 - Expectations and Lucas critique.md"
+    "Statistical Learning/SL2 - Statistical Learning.md"
   ]
 }
