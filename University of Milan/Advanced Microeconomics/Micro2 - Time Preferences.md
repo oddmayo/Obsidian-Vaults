@@ -209,7 +209,7 @@ Clear **violation** of **rational decision making**
 ---
 
 
-## Toussaert (2018): Eliciting temptation and self-control through menu choices: a lab experiment
+## Toussaert (2018): Eliciting temptation and self-control through menu choices: a lab experiment *
 
 ### Introduction
 
