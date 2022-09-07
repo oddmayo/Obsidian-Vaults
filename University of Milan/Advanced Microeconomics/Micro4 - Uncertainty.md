@@ -27,7 +27,7 @@ Demand for insurance: a risk averse consumer who is offered for insurance wll in
 3. Consequentialism (reduction of compound lotteries)
 4. Independe
 
-[[Macro1 - Introduction]]
+[[Micro1 - Introduction]]
 
 **Rationality**:
 - Completness

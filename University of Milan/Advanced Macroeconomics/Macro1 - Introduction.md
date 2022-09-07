@@ -1,9 +1,9 @@
 # What is macroeconomics
 Study the #aggregate behaviour of economic agents
 Models to explain macro phenomena
-**Foucs**: #long-run_growth and #business_cycles
+**Focus**: #long-run_growth and #business_cycles
 
-## Growth Domestic Product - DGP
+## Growth Domestic Product - GDP
 Value of all *final goods* produced in the course of a period
 - It is also equal to the total *expenditure* on all final goods and services production in the economy
 	![[Pasted image 20220901233143.png]]

@@ -78,7 +78,7 @@ Example: positive productiviry shock $z_t \uparrow$  or a regulation shock $\mu^
 ![[Pasted image 20220904123823.png]]
 
 
-*Positive shocks lowerts employment* in the short run
+*Positive shocks lowers employment* in the short run
 
 Empirically the data says that an increase in productivity $z_t \uparrow$ :
 - *short run*: $\uparrow y$ and a transitory drop in employment
