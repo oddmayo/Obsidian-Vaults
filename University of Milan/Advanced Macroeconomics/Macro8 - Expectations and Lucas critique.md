@@ -36,3 +36,5 @@ By changing its policy rule, the CB has also changed the structural relation bet
 CB naturally concludes from the fact that $\hat{\beta}$, that it can permanently raise $y_t$ by increasing $\Delta \pi_t$. **But this attempt is doomed to failure**  as soons as agents understand the new monetary policy rule.
 
 By seeking to exploit the fact that $\hat{beta}>0$ to stimulate $y_t$, the CB did not percieve that the parameter $\hat{alpha}$ is **endogenous** to its own economic policy
+
+

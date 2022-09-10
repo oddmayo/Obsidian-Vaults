@@ -4,6 +4,8 @@
 - People exhibit rational altrustic behavior
 - People care not only about final outcomes but also about intentions
 
+[[Micro6 - Social Preferences]]
+
 ## Image concerns
 **Some puzzling observations**
 - Unstable altruism

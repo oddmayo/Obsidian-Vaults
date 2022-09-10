@@ -160,7 +160,7 @@ She maximies her #expected_utility by weighting the probabilities
 
 Most people choose $A \succ B$ and $D \succ C$ 
 
-*Issue?* **Violation** of expetec utility theory (rational choice)!
+*Issue?* **Violation** of expected utility theory (rational choice)!
 - People are not always expected utility maximizers
 - Intuition: *reduction of compund lotteries* preference ordering should not change
 

@@ -1,4 +1,5 @@
 {
-  "cssTheme": "Cybertron",
-  "baseFontSize": 16
+  "cssTheme": "Spectrum",
+  "baseFontSize": 13,
+  "textFontFamily": ""
 }

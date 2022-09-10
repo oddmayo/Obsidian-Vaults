@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b9b633438e53fe72",
+        "id": "a8e4357649485f6b",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#rigidities",
+                "query": "tag:#exponential_discounting",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "2591e9ffa5c33921",
+            "id": "ed64932ba46c48aa",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -153,17 +153,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b9b633438e53fe72",
+  "active": "a8e4357649485f6b",
   "lastOpenFiles": [
-    "Advanced Microeconomics/Micro Exam Considerations.md",
-    "Advanced Microeconomics/Micro1 - Introduction.md",
-    "Advanced Macroeconomics/Macro8 - Expectations and Lucas critique.md",
-    "Advanced Macroeconomics/Macro7 - Unconventional MP.md",
-    "Advanced Macroeconomics/Macro6 - The Liquidity Trap.md",
-    "Advanced Macroeconomics/Macro5 - Monetary Policy.md",
-    "Advanced Macroeconomics/Macro4 - AD-AS Eq..md",
+    "Excalidraw/Drawing 2022-09-10 20.27.44.excalidraw.md",
     "Advanced Macroeconomics/Macro3 - Aggregate Suply.md",
+    "Advanced Macroeconomics/Macro4 - AD-AS Eq..md",
+    "Advanced Macroeconomics/Macro5 - Monetary Policy.md",
     "Advanced Macroeconomics/Macro1 - Introduction.md",
-    "Advanced Macroeconomics/Macro2 - Aggregate Demand.md"
+    "Advanced Macroeconomics/Macro8 - Expectations and Lucas critique.md",
+    "Advanced Macroeconomics/Macro2 - Aggregate Demand.md",
+    "Advanced Macroeconomics/Macro6 - The Liquidity Trap.md",
+    "Prueba.md",
+    "2022-09-10.md"
   ]
 }

@@ -41,7 +41,7 @@ Demand for insurance: a risk averse consumer who is offered for insurance wll in
 ![[Pasted image 20220907131117.png]]
 
 ## Theorem: Von Neumann-Morgentern
-The preference relation $\succsim$ fulfis the axioms iff there exists a function $u_iX \rightarrow R$ such that:
+The preference relation $\succsim$ fulfils the axioms iff there exists a function $u_iX \rightarrow R$ such that:
 
 ![[Pasted image 20220907133540.png]]
 
@@ -89,7 +89,7 @@ EUT anomalies suggest that
 ### Prospect Theory function
 ![[Pasted image 20220907165247.png]]
 
-**Similar to EUT but**: outcomes comparte to some reference point; probabilities not weighted with their numeric values but with their corresponding weights
+**Similar to EUT but**: outcomes compare to some reference point; probabilities not weighted with their numeric values but with their corresponding weights
 
 ### Value function
 EUT considers long term perspective but changes causes emotions $\rightarrow$ *emotions and utility inseparable*

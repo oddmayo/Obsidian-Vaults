@@ -63,7 +63,7 @@ $\delta$ replaces complex psychology of how people think about the future but in
 **Example**: get education or not?
 
 Inmediate cost: C = -1
-Discount facotr:  $\delta = 0.8$
+Discount factor:  $\delta = 0.8$
 Long-term benefits?
 
 ![[Pasted image 20220906181601.png]]

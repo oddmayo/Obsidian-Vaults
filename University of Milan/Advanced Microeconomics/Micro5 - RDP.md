@@ -4,7 +4,7 @@
 
 Most important points in Prospect Theory (Kahnemand and Tversky 1979) [[Micro4 - Uncertainty]]
 
-1. *Change rather than levels*: utility seems better described by changes in consumption rather than by levels of unsumption
+1. *Change rather than levels*: utility seems better described by changes in consumption rather than by levels of consumption
 2. *Loss aversion*: losses loom larger than gains
 3. *Diminishing sensitivity*: people are risk averse in the gain domain, but risk loving in the loss
 
@@ -20,7 +20,7 @@ Aurora has a reference-dependent utility over wine ($C_w$) and opera lessons ($C
 
 ![[Pasted image 20220907181902.png]]
 
-Initial endowment affects preferences $\rightarrow$ affects willingness to buy or sell property rights implications for effectiveness or markets (too few tardes)
+Initial endowment affects preferences $\rightarrow$ affects willingness to buy or sell property rights implications for effectiveness or markets (too few trades)
 
 ## Labor market
 ### Labor markets and labor supply elasticities
