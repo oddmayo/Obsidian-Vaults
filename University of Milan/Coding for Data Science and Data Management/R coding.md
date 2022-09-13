@@ -22,3 +22,5 @@
 - *Grouping and summarizing*: summarize, group_by
 - *Types of visualization*: line plots, bar plots, histograms and boxplots
 
+## Class material
+
