@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding for Data Science and Data Management/SQL.md",
+            "file": "Project Management in the Era of Big Data/PM2 - Organizational Context.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding for Data Science and Data Management/SQL.md",
+                "file": "Project Management in the Era of Big Data/PM2 - Organizational Context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding for Data Science and Data Management/SQL.md",
+                "file": "Project Management in the Era of Big Data/PM2 - Organizational Context.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding for Data Science and Data Management/SQL.md"
+                "file": "Project Management in the Era of Big Data/PM2 - Organizational Context.md"
               }
             }
           },
@@ -155,15 +155,15 @@
   },
   "active": "5cb75b77801abb8f",
   "lastOpenFiles": [
-    "Coding for Data Science and Data Management/R coding.md",
-    "Coding for Data Science and Data Management/Python coding.md",
-    "Coding for Data Science and Data Management/Past exam clues.md",
+    "Project Management in the Era of Big Data/PM1 - Introduction.md",
+    "Project Management in the Era of Big Data/PM2 - Organizational Context.md",
+    "Advanced Macroeconomics/Macro4 - AD-AS Eq..md",
+    "Advanced Macroeconomics/Macro1 - Introduction.md",
     "Coding for Data Science and Data Management/SQL.md",
     "Coding for Data Science and Data Management/Data management slides.md",
-    "R coding.md",
-    "Advanced Macroeconomics/Macro1 - Introduction.md",
-    "Excalidraw/Drawing 2022-09-10 20.27.44.excalidraw.md",
-    "Advanced Macroeconomics/Macro3 - Aggregate Suply.md",
-    "Advanced Macroeconomics/Macro4 - AD-AS Eq..md"
+    "Coding for Data Science and Data Management/Past exam clues.md",
+    "Coding for Data Science and Data Management/R coding.md",
+    "Coding for Data Science and Data Management/Python coding.md",
+    "R coding.md"
   ]
 }

@@ -36,3 +36,4 @@ UNION basically stacks two tables resulting from queries on top of each other
 UNION all includes duplicates}
 INTERSECT only records in both tables
 EXCEPT only records in the left table
+
