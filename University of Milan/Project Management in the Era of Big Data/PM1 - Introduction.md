@@ -6,7 +6,7 @@
 ## What is a project
 A **process** refers to ongoing, *day-to-day activities* in which an organization engages while producing goods or services. Processes use existing systems, properties, and capabilities in a continuous, repetitive manner. **Projects**, on the other hand, *take place outside the normal, process-oriented world of the firm*.
 
-A project has a beginning and an end to meet goals within parameters of *cost, schedule and quality*. They are goal oriented, of finite duration and unique.
+A #project has a beginning and an end to meet goals within parameters of *cost, schedule and quality*. They are goal oriented, of finite duration and unique.
 
 - Objective with specifications
 - Start and end dates (life cycle)
@@ -24,7 +24,7 @@ The **principal outcome** of a project are the *satisfaction of customer require
 **Process orientation** is the need to *perform work as efficiently as possible*.
 
 ## Why are projects important?
-- David Cleland: the pressures that organizations find themselves facing
+- <u>David Cleland</u>: the pressures that organizations find themselves facing
 - *Shortened product life cycles*
 - Narrow product launch windows
 - Emergence of global markets
