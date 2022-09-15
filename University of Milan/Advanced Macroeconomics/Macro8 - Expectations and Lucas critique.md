@@ -1,6 +1,6 @@
 # Expectations, Policy and the Lucas Critique
 ## Expectations and policy efectiveness
-Expectations about future policy, we introduce a price-setting process better than in [[Macro3 - Aggregate Suply]]
+Expectations about future policy, we introduce a price-setting process better than in [[Macro3 - Aggregate Supply]]
 
 ## AS curve with predetermined prices
 ![[Pasted image 20220904234126.png]]

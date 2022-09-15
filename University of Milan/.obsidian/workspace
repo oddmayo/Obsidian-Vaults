@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Project Management in the Era of Big Data/PM7 - Risk Management.md",
+            "file": "Project Management in the Era of Big Data/PM8 - Cost Estimation.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Management in the Era of Big Data/PM7 - Risk Management.md",
+                "file": "Project Management in the Era of Big Data/PM8 - Cost Estimation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Management in the Era of Big Data/PM7 - Risk Management.md",
+                "file": "Project Management in the Era of Big Data/PM8 - Cost Estimation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Management in the Era of Big Data/PM7 - Risk Management.md"
+                "file": "Project Management in the Era of Big Data/PM8 - Cost Estimation.md"
               }
             }
           },
@@ -156,15 +156,15 @@
   },
   "active": "5cb75b77801abb8f",
   "lastOpenFiles": [
-    "Project Management in the Era of Big Data/PM6 - Project Team Building.md",
+    "Advanced Macroeconomics/Macro3 - Aggregate Supply.md",
+    "Project Management in the Era of Big Data/PM8 - Cost Estimation.md",
     "Project Management in the Era of Big Data/PM7 - Risk Management.md",
+    "Project Management in the Era of Big Data/PM6 - Project Team Building.md",
     "Project Management in the Era of Big Data/PM5 - Scope Management.md",
     "Advanced Macroeconomics/Macro4 - AD-AS Eq..md",
-    "Advanced Macroeconomics/Macro3 - Aggregate Suply.md",
     "Advanced Macroeconomics/Macro2 - Aggregate Demand.md",
     "Advanced Macroeconomics/Macro1 - Introduction.md",
     "Project Management in the Era of Big Data/PM4 - Leadership.md",
-    "Project Management in the Era of Big Data/PM2 - Organizational Context.md",
-    "Project Management in the Era of Big Data/PM3 - Selection and Portfolio.md"
+    "Project Management in the Era of Big Data/PM2 - Organizational Context.md"
   ]
 }

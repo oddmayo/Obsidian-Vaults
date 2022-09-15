@@ -1,6 +1,6 @@
 # Monetary Policy
 ## Monetary policy implementation
-How does the CB implement the intended value of $r_t$ for #inflation_targeting ? [[Macro3 - Aggregate Suply]] The interest rate that affects aggregate demand is the **real interest rate** $r_t$ *but* is not under direct control of the CB plus it has long maturity
+How does the CB implement the intended value of $r_t$ for #inflation_targeting ? [[Macro3 - Aggregate Supply]] The interest rate that affects aggregate demand is the **real interest rate** $r_t$ *but* is not under direct control of the CB plus it has long maturity
 
 The instruments under direct control (linked to $r$) of the CB are:
 1. Short-term **nominal interest rate**: $i$
