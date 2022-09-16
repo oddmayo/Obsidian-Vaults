@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Project Management in the Era of Big Data/Core readings/PMC1 - Oracle Top Big Data Cases.md",
+            "file": "Project Management in the Era of Big Data/Slides/PMS2 - Big data market.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e584ad20106ecef1",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Management in the Era of Big Data/Core readings/PMC1 - Oracle Top Big Data Cases.md",
+                "file": "Project Management in the Era of Big Data/Slides/PMS2 - Big data market.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Management in the Era of Big Data/Core readings/PMC1 - Oracle Top Big Data Cases.md",
+                "file": "Project Management in the Era of Big Data/Slides/PMS2 - Big data market.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Management in the Era of Big Data/Core readings/PMC1 - Oracle Top Big Data Cases.md"
+                "file": "Project Management in the Era of Big Data/Slides/PMS2 - Big data market.md"
               }
             }
           },
@@ -155,6 +156,7 @@
   },
   "active": "5cb75b77801abb8f",
   "lastOpenFiles": [
+    "Project Management in the Era of Big Data/Core readings/PMC1 - Oracle Top Big Data Cases.md",
     "Project Management in the Era of Big Data/Slides/PMS1 - Introduction.md",
     "Project Management in the Era of Big Data/PM Book/PM1 - Introduction.md",
     "Project Management in the Era of Big Data/PM Book/PM13 - Evaluation and Control.md",
@@ -163,7 +165,6 @@
     "Project Management in the Era of Big Data/PM Book/PM6 - Project Team Building.md",
     "Project Management in the Era of Big Data/PM Book/PM5 - Scope Management.md",
     "Project Management in the Era of Big Data/PM Book/PM4 - Leadership.md",
-    "Project Management in the Era of Big Data/PM Book/PM3 - Selection and Portfolio.md",
-    "Project Management in the Era of Big Data/PM Book/PM2 - Organizational Context.md"
+    "Project Management in the Era of Big Data/PM Book/PM3 - Selection and Portfolio.md"
   ]
 }
