@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Project Management in the Era of Big Data/Core readings/PMC2 - Forbes Fostering Data.md",
+            "file": "Project Management in the Era of Big Data/Slides/PMS3 - Top Data Companies.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Management in the Era of Big Data/Core readings/PMC2 - Forbes Fostering Data.md",
+                "file": "Project Management in the Era of Big Data/Slides/PMS3 - Top Data Companies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Management in the Era of Big Data/Core readings/PMC2 - Forbes Fostering Data.md",
+                "file": "Project Management in the Era of Big Data/Slides/PMS3 - Top Data Companies.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Management in the Era of Big Data/Core readings/PMC2 - Forbes Fostering Data.md"
+                "file": "Project Management in the Era of Big Data/Slides/PMS3 - Top Data Companies.md"
               }
             }
           },
@@ -156,6 +156,7 @@
   },
   "active": "5cb75b77801abb8f",
   "lastOpenFiles": [
+    "Project Management in the Era of Big Data/Core readings/PMC2 - Forbes Fostering Data.md",
     "Project Management in the Era of Big Data/Slides/PMS2 - Big data market.md",
     "Project Management in the Era of Big Data/Core readings/PMC1 - Oracle Top Big Data Cases.md",
     "Project Management in the Era of Big Data/Slides/PMS1 - Introduction.md",
@@ -164,7 +165,6 @@
     "Project Management in the Era of Big Data/PM Book/PM14 - Closeout and Termination.md",
     "Project Management in the Era of Big Data/PM Book/PM10 - Project Scheduling.md",
     "Project Management in the Era of Big Data/PM Book/PM6 - Project Team Building.md",
-    "Project Management in the Era of Big Data/PM Book/PM5 - Scope Management.md",
-    "Project Management in the Era of Big Data/PM Book/PM4 - Leadership.md"
+    "Project Management in the Era of Big Data/PM Book/PM5 - Scope Management.md"
   ]
 }
