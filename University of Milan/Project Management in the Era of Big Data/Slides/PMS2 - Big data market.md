@@ -1,4 +1,4 @@
-# Lesson 2 - Big data market
+# Big data market
 
 ![[Pasted image 20220916175440.png]]
 
