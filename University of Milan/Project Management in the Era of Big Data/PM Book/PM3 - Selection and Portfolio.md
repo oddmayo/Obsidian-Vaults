@@ -17,7 +17,7 @@ These models come in *two general classes*: numeric and nonnumeric.
 - Numeric: use numbers as inputs.
 - Nonnumeric: rely on other data.
 
-Need to consider risk and commercial factors, internal operating issue, among others. The most complete model in the world is still only a **partial reflection of organizational reality**. Embedded in every decision model are both objetive and subjective factors.
+Need to consider risk and commercial factors, internal operating issue, among others. The most complete model in the world is still only a **partial reflection of organizational reality**. Embedded in every decision model are both objective and subjective factors.
 
 ## Approaches to project screening and selection
 

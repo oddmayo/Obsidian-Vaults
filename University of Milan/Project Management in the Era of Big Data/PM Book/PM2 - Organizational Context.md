@@ -20,7 +20,7 @@ For example: top management, accountant, project team members and externals such
 
 *Supply chain management*: project manager must stay on top of the cost of the project, an *efficient cost control and reporting mechanism* is vital.
 
-Block offers a useful framework:
+*Block* offers a useful framework:
 1. Assessing the environment
 2. Identify the goals of the principal actors
 3. Assess your own capabilities
