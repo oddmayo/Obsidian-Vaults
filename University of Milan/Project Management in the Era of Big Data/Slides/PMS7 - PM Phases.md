@@ -74,7 +74,7 @@ It is important to close the project to avoid:
 - creating liability issues
 - unmaintained deliverables
 
-By officially closing a project you minimize risks, increase satisfaction and ensure all parties are in the same page.
+By officially closing a project you minimize risks, increase *satisfaction* and ensure all parties are in the same page.
 
 
 **Closeout checklist**: evaluate business outcomes
