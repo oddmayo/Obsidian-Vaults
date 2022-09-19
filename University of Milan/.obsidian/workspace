@@ -7,11 +7,9 @@
         "id": "6a916b1dc73a5857",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Project Management in the Era of Big Data/Slides/PMS7 - PM Phases.md",
-            "mode": "source",
-            "source": false
+            "file": "Excalidraw/Timetable 22-23 first trimester.md"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Management in the Era of Big Data/Slides/PMS7 - PM Phases.md",
+                "file": "Excalidraw/Timetable 22-23 first trimester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Management in the Era of Big Data/Slides/PMS7 - PM Phases.md",
+                "file": "Excalidraw/Timetable 22-23 first trimester.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Management in the Era of Big Data/Slides/PMS7 - PM Phases.md"
+                "file": "Excalidraw/Timetable 22-23 first trimester.md"
               }
             }
           },
@@ -153,17 +151,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6a916b1dc73a5857",
+  "active": "9e2eed2c51c78be2",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-09-19 12.51.29.excalidraw.md",
+    "Excalidraw/Timetable 22-23 first trimester.md",
+    "Excalidraw/Timetable 22-23 first trimester.md",
+    "Untitled.md",
+    "Timetables.md",
+    "Project Management in the Era of Big Data/Slides/PMS7 - PM Phases.md",
     "Project Management in the Era of Big Data/Slides/PMS1 - Introduction.md",
     "Project Management in the Era of Big Data/PM Book/PM14 - Closeout and Termination.md",
     "Project Management in the Era of Big Data/PM Book/PM13 - Evaluation and Control.md",
-    "Project Management in the Era of Big Data/PM Book/PM10 - Project Scheduling.md",
-    "Project Management in the Era of Big Data/PM Book/PM9 - Project Scheduling.md",
-    "Project Management in the Era of Big Data/PM Book/PM8 - Cost Estimation.md",
-    "Project Management in the Era of Big Data/PM Book/PM7 - Risk Management.md",
-    "Project Management in the Era of Big Data/PM Book/PM6 - Project Team Building.md",
-    "Project Management in the Era of Big Data/PM Book/PM5 - Scope Management.md",
-    "Project Management in the Era of Big Data/PM Book/PM4 - Leadership.md"
+    "Project Management in the Era of Big Data/PM Book/PM10 - Project Scheduling.md"
   ]
 }
