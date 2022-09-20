@@ -7,9 +7,11 @@
         "id": "6a916b1dc73a5857",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Excalidraw/Timetable 22-23 first trimester.md"
+            "file": "Cybersecurity/Lectures.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -59,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e584ad20106ecef1",
@@ -75,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Timetable 22-23 first trimester.md",
+                "file": "Cybersecurity/Lectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Timetable 22-23 first trimester.md",
+                "file": "Cybersecurity/Lectures.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Timetable 22-23 first trimester.md"
+                "file": "Cybersecurity/Lectures.md"
               }
             }
           },
@@ -151,12 +154,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9e2eed2c51c78be2",
+  "active": "6a916b1dc73a5857",
   "lastOpenFiles": [
+    "Excalidraw/Timetable 22-23 first trimester.md",
     "Excalidraw/Drawing 2022-09-19 12.51.29.excalidraw.md",
-    "Excalidraw/Timetable 22-23 first trimester.md",
-    "Excalidraw/Timetable 22-23 first trimester.md",
-    "Untitled.md",
+    "Cybersecurity/Lectures.md",
     "Timetables.md",
     "Project Management in the Era of Big Data/Slides/PMS7 - PM Phases.md",
     "Project Management in the Era of Big Data/Slides/PMS1 - Introduction.md",
