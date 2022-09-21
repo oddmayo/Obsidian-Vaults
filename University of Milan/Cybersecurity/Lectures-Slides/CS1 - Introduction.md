@@ -1,4 +1,4 @@
-# 20 September 2022
+# September 20 - 2022
 **Key document**: General Data Protection Regulation Law $\leftarrow$ European Council
 ## Topics:
 - Fundamentals of data protection and cybersecurity
@@ -18,7 +18,7 @@ Mainly about Law
 **website**
 https://pperricpptdsp.ariel.ctu.unimi.it/v5/Home
 
-
+---
 
 
 
