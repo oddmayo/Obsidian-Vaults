@@ -3,6 +3,7 @@
 ## Algorithms for Massive Data, Cloud and Distributed Computing
 
 **November 4**
+December first call
 
 ## Coding for Data Science and Data Management
 

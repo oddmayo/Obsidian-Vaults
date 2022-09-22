@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/Lectures-Slides/CS2 - Privacy Concept.md",
+            "file": "Social Network Analysis/SNA1 - Introduction.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity/Lectures-Slides/CS2 - Privacy Concept.md",
+                "file": "Social Network Analysis/SNA1 - Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity/Lectures-Slides/CS2 - Privacy Concept.md",
+                "file": "Social Network Analysis/SNA1 - Introduction.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity/Lectures-Slides/CS2 - Privacy Concept.md"
+                "file": "Social Network Analysis/SNA1 - Introduction.md"
               }
             }
           },
@@ -155,15 +155,15 @@
   },
   "active": "6a916b1dc73a5857",
   "lastOpenFiles": [
-    "Cybersecurity/Lectures-Slides/CS1 - Introduction.md",
-    "Cybersecurity/Lectures-Slides/CS2 - Privacy Concept.md",
+    "Security for Cloud Computing/Lectures-Slides/SCP1 - Introduction.md",
     "Forthcoming Exam Sessions.md",
+    "Coding for Data Science and Data Management/Past exam clues.md",
+    "Coding for Data Science and Data Management/Data management slides.md",
+    "Cybersecurity/Lectures-Slides/CS2 - Privacy Concept.md",
+    "Cybersecurity/Lectures-Slides/CS1 - Introduction.md",
     "Excalidraw/Timetable 22-23 first trimester.md",
     "Excalidraw/Drawing 2022-09-19 12.51.29.excalidraw.md",
     "Timetables.md",
-    "Project Management in the Era of Big Data/Slides/PMS7 - PM Phases.md",
-    "Project Management in the Era of Big Data/Slides/PMS1 - Introduction.md",
-    "Project Management in the Era of Big Data/PM Book/PM14 - Closeout and Termination.md",
-    "Project Management in the Era of Big Data/PM Book/PM13 - Evaluation and Control.md"
+    "Project Management in the Era of Big Data/Slides/PMS7 - PM Phases.md"
   ]
 }
