@@ -1,6 +1,6 @@
 # September 21 - 2022
 
-In the **USA** the idea of privacy originated after the war for independence
+In the **USA** the idea of #privacy originated after the war for independence
 
 *Second World War*: turn over of fundamental rights
 
@@ -26,14 +26,10 @@ They seek periods of individual seclusion or small-group intimacy
 
 Tendency toward territoriality $\rightarrow$ private claim of an area: defend it
 
-**pending**
-
 ## Privacy in ancient Greek
 
 Privacy introduced at the end of the nineteenth century legally, *but* its origins trace back to ancient Greek through the idea of a **distinction between the public and the private** realms of the design of the polis
  
-
-**pending**
 
 ## Privacy and humans
 
@@ -66,8 +62,6 @@ They published: **The right to privacy** (Harvard): starting point of privacy as
 - Critic: create a right for famous people. Not true, is a right for everyone
 
 ## Privacy and property
-
-**pending**
 
 It started with property and now it encompasses the individual
 
