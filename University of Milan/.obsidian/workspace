@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/Lectures-Slides/CS4 - EU Data Strategy.md",
+            "file": "Security for Cloud Computing/Lectures-Slides/SCP2 - Macrodata Disclosure Protection Techniques.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity/Lectures-Slides/CS4 - EU Data Strategy.md",
+                "file": "Security for Cloud Computing/Lectures-Slides/SCP2 - Macrodata Disclosure Protection Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity/Lectures-Slides/CS4 - EU Data Strategy.md",
+                "file": "Security for Cloud Computing/Lectures-Slides/SCP2 - Macrodata Disclosure Protection Techniques.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity/Lectures-Slides/CS4 - EU Data Strategy.md"
+                "file": "Security for Cloud Computing/Lectures-Slides/SCP2 - Macrodata Disclosure Protection Techniques.md"
               }
             }
           },
@@ -156,15 +156,15 @@
   },
   "active": "6a916b1dc73a5857",
   "lastOpenFiles": [
+    "Security for Cloud Computing/Lectures-Slides/SCP1 - Intro, Macro and Microdata.md",
+    "Security for Cloud Computing/Lectures-Slides/SCP2 - Macrodata Disclosure Protection Techniques.md",
+    "Social Network Analysis/SNA1 - Introduction.md",
+    "Cybersecurity/Lectures-Slides/CS4 - EU Data Strategy.md",
     "Cybersecurity/Lectures-Slides/CS3 - Privacy in USA and EU.md",
     "Cybersecurity/Lectures-Slides/CS2 - Privacy Concept.md",
     "Cybersecurity/Lectures-Slides/CS1 - Introduction.md",
-    "Security for Cloud Computing/Lectures-Slides/SCP1 - Introduction.md",
     "Contra.md",
-    "Social Network Analysis/SNA1 - Introduction.md",
     "Forthcoming Exam Sessions.md",
-    "Coding for Data Science and Data Management/Past exam clues.md",
-    "Coding for Data Science and Data Management/Data management slides.md",
-    "Excalidraw/Timetable 22-23 first trimester.md"
+    "Coding for Data Science and Data Management/Past exam clues.md"
   ]
 }
