@@ -51,3 +51,7 @@ Combining $Dept_1$ with $Dept_2$ and $Dept_3$ with $Dept_4$ does offer the requi
 ![[Pasted image 20221004122401.png]]
 
 
+Instead if we combine $Dept_2$ with $Dept_4$ it would reveal that the income is within a 5k interval [23K,27K]
+
+![[Pasted image 20221006193255.png]]
+

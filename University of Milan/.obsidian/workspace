@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cybersecurity/Lectures-Slides/CS6 - EU Cybersecurity Policies.md",
+            "file": "Security for Cloud Computing/Lectures-Slides/SCP3 - Cell Suppression.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e584ad20106ecef1",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity/Lectures-Slides/CS6 - EU Cybersecurity Policies.md",
+                "file": "Security for Cloud Computing/Lectures-Slides/SCP3 - Cell Suppression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity/Lectures-Slides/CS6 - EU Cybersecurity Policies.md",
+                "file": "Security for Cloud Computing/Lectures-Slides/SCP3 - Cell Suppression.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity/Lectures-Slides/CS6 - EU Cybersecurity Policies.md"
+                "file": "Security for Cloud Computing/Lectures-Slides/SCP3 - Cell Suppression.md"
               }
             }
           },
@@ -155,15 +156,15 @@
   },
   "active": "6a916b1dc73a5857",
   "lastOpenFiles": [
-    "Cybersecurity/Lectures-Slides/CS5 - Cybersecurity.md",
-    "Cybersecurity/Lectures-Slides/CS6 - EU Cybersecurity Policies.md",
-    "Forthcoming Exam Sessions.md",
-    "Cybersecurity/Lectures-Slides/CS4 - EU Data Strategy.md",
     "Security for Cloud Computing/Lectures-Slides/SCP2 - Macrodata Disclosure Protection Techniques.md",
+    "Security for Cloud Computing/Lectures-Slides/SCP3 - Cell Suppression.md",
     "Security for Cloud Computing/Lectures-Slides/SCP1 - Intro, Macro and Microdata.md",
     "Social Network Analysis/SNA1 - Introduction.md",
+    "Cybersecurity/Lectures-Slides/CS6 - EU Cybersecurity Policies.md",
+    "Cybersecurity/Lectures-Slides/CS5 - Cybersecurity.md",
+    "Forthcoming Exam Sessions.md",
+    "Cybersecurity/Lectures-Slides/CS4 - EU Data Strategy.md",
     "Cybersecurity/Lectures-Slides/CS3 - Privacy in USA and EU.md",
-    "Cybersecurity/Lectures-Slides/CS2 - Privacy Concept.md",
-    "Cybersecurity/Lectures-Slides/CS1 - Introduction.md"
+    "Cybersecurity/Lectures-Slides/CS2 - Privacy Concept.md"
   ]
 }
