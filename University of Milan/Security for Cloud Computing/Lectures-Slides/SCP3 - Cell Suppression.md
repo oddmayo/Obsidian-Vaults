@@ -71,3 +71,44 @@ To reduce data loss due to suppression, use rounding values to a multiple of the
 ![[Pasted image 20221006204821.png]]
 
 Linear programming methods are used to identify a controlled rounding for a table
+
+**Disadvantages**:
+- It requires the use of specialized computer programs
+- Controlled rounding solutions *may not always exist* for complex tables
+
+## Confidentiality edit
+Developed y the U.S. Census Bureau in 1990
+
+Two approaches:
+1. to protect the regular decennial Census data (100% of the population)
+2. to protect the long-form of the Census which refers to a sample of the population
+
+Both apply statistical disclosure limitation techniques to the microdata
+
+For the 100% microdata file, *confidentiality edit* applies **switching**:
+
+1. Take a *sample* of records
+2. Find a *match* for these records in some other geographic region, matching on a specified set of important attributes
+3. *Swap* all attributes on the matched records
+
+For small blocks, the sampling fraction is increased
+The microdata file can be used directly to prepare macrodata tables
+
+### Confidentiality edit example
+
+Records for the 20 employees of company Alfa
+Take a sample of records from the microdata file (say 10% sample)
+![[Pasted image 20221008113453.png]]
+
+Since we need tables by company and education level, we find a match in some other company on the other variables
+
+![[Pasted image 20221008113553.png]]
+
+Part of the randomly selected 10% sample from other companies match records in company Alfa
+
+![[Pasted image 20221008114126.png]]
+
+
+### Confidentiality edit example 2
+
+![[Pasted image 20221008114252.png]]
