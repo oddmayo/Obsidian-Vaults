@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Security for Cloud Computing/Lectures-Slides/SCP4 - Macrodata Tables of Magnitude Data.md",
+            "file": "Security for Cloud Computing/Lectures-Slides/SCP5 - Identity Disclosure.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security for Cloud Computing/Lectures-Slides/SCP4 - Macrodata Tables of Magnitude Data.md",
+                "file": "Security for Cloud Computing/Lectures-Slides/SCP5 - Identity Disclosure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security for Cloud Computing/Lectures-Slides/SCP4 - Macrodata Tables of Magnitude Data.md",
+                "file": "Security for Cloud Computing/Lectures-Slides/SCP5 - Identity Disclosure.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security for Cloud Computing/Lectures-Slides/SCP4 - Macrodata Tables of Magnitude Data.md"
+                "file": "Security for Cloud Computing/Lectures-Slides/SCP5 - Identity Disclosure.md"
               }
             }
           },
@@ -156,15 +156,15 @@
   },
   "active": "6a916b1dc73a5857",
   "lastOpenFiles": [
-    "Security for Cloud Computing/Lectures-Slides/SCP1 - Intro, Macro and Microdata.md",
     "Security for Cloud Computing/Lectures-Slides/SCP4 - Macrodata Tables of Magnitude Data.md",
+    "Security for Cloud Computing/Lectures-Slides/SCP5 - Identity Disclosure.md",
+    "Security for Cloud Computing/Lectures-Slides/SCP1 - Intro, Macro and Microdata.md",
     "Security for Cloud Computing/Lectures-Slides/SCP3 - Cell Suppression.md",
     "Security for Cloud Computing/Lectures-Slides/SCP2 - Macrodata Tables of Counts.md",
     "Forthcoming Exam Sessions.md",
     "Social Network Analysis/SNA1 - Introduction.md",
     "Cybersecurity/Lectures-Slides/CS6 - EU Cybersecurity Policies.md",
     "Cybersecurity/Lectures-Slides/CS5 - Cybersecurity.md",
-    "Cybersecurity/Lectures-Slides/CS4 - EU Data Strategy.md",
-    "Cybersecurity/Lectures-Slides/CS3 - Privacy in USA and EU.md"
+    "Cybersecurity/Lectures-Slides/CS4 - EU Data Strategy.md"
   ]
 }
