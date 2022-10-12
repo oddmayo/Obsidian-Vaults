@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Security for Cloud Computing/Lectures-Slides/SCP6 - Identity Disclosure 2.md",
+            "file": "Social Network Analysis/SNA1 - Introduction.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security for Cloud Computing/Lectures-Slides/SCP6 - Identity Disclosure 2.md",
+                "file": "Social Network Analysis/SNA1 - Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security for Cloud Computing/Lectures-Slides/SCP6 - Identity Disclosure 2.md",
+                "file": "Social Network Analysis/SNA1 - Introduction.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security for Cloud Computing/Lectures-Slides/SCP6 - Identity Disclosure 2.md"
+                "file": "Social Network Analysis/SNA1 - Introduction.md"
               }
             }
           },
@@ -156,15 +156,15 @@
   },
   "active": "b830ec5ba5a3a463",
   "lastOpenFiles": [
-    "Security for Cloud Computing/Lectures-Slides/SCP5 - Identity Disclosure.md",
+    "Forthcoming Exam Sessions.md",
+    "Security for Cloud Computing/Lectures-Slides/SCP1 - Intro, Macro and Microdata.md",
+    "Social Network Analysis/SNA1 - Introduction.md",
     "Security for Cloud Computing/Lectures-Slides/SCP6 - Identity Disclosure 2.md",
+    "Security for Cloud Computing/Lectures-Slides/SCP5 - Identity Disclosure.md",
     "Untitled.md",
     "Security for Cloud Computing/Lectures-Slides/SCP2 - Macrodata Tables of Counts.md",
     "Security for Cloud Computing/Lectures-Slides/SCP3 - Cell Suppression.md",
     "Security for Cloud Computing/Lectures-Slides/SCP4 - Macrodata Tables of Magnitude Data.md",
-    "Security for Cloud Computing/Lectures-Slides/SCP1 - Intro, Macro and Microdata.md",
-    "Forthcoming Exam Sessions.md",
-    "Social Network Analysis/SNA1 - Introduction.md",
     "Cybersecurity/Lectures-Slides/CS6 - EU Cybersecurity Policies.md"
   ]
 }

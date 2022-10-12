@@ -11,7 +11,6 @@ December first call
 
 ## Cybersecurity and Data Preservation Techniques and Digital Security and Privacy
 
-**October 10**
 **November 30**
 
 ## Machine Learning, Statistical Learning, Deep Learning and Artificial Intelligence
