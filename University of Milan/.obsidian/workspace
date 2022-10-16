@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Security for Cloud Computing/Lectures-Slides/SCP7 - Attribute Disclosure.md",
+            "file": "Security for Cloud Computing/Lectures-Slides/SCP8 - Differential Privacy.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security for Cloud Computing/Lectures-Slides/SCP7 - Attribute Disclosure.md",
+                "file": "Security for Cloud Computing/Lectures-Slides/SCP8 - Differential Privacy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security for Cloud Computing/Lectures-Slides/SCP7 - Attribute Disclosure.md",
+                "file": "Security for Cloud Computing/Lectures-Slides/SCP8 - Differential Privacy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security for Cloud Computing/Lectures-Slides/SCP7 - Attribute Disclosure.md"
+                "file": "Security for Cloud Computing/Lectures-Slides/SCP8 - Differential Privacy.md"
               }
             }
           },
@@ -156,8 +156,8 @@
   },
   "active": "b830ec5ba5a3a463",
   "lastOpenFiles": [
-    "Security for Cloud Computing/Lectures-Slides/SCP6 - Identity Disclosure 2.md",
     "Security for Cloud Computing/Lectures-Slides/SCP7 - Attribute Disclosure.md",
+    "Security for Cloud Computing/Lectures-Slides/SCP6 - Identity Disclosure 2.md",
     "Security for Cloud Computing/Lectures-Slides/SCP5 - Identity Disclosure.md",
     "Social Network Analysis/Lectures-SLides/SNA2 - Network Types.md",
     "Social Network Analysis/Lectures-SLides/SNA1 - Introduction.md",
