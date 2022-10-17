@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Network Analysis/Lectures-SLides/SNA3 - Network Models.md",
+                "file": "Cybersecurity/Lectures-Slides/CS6 - EU Cybersecurity Policies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7eb2c3e866ba234d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/Lectures-Slides/CS7 - General Data Protection Regulation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social Network Analysis/Lectures-SLides/SNA3 - Network Models.md",
+                "file": "Cybersecurity/Lectures-Slides/CS7 - General Data Protection Regulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Social Network Analysis/Lectures-SLides/SNA3 - Network Models.md",
+                "file": "Cybersecurity/Lectures-Slides/CS7 - General Data Protection Regulation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Social Network Analysis/Lectures-SLides/SNA3 - Network Models.md"
+                "file": "Cybersecurity/Lectures-Slides/CS7 - General Data Protection Regulation.md"
               }
             }
           },
@@ -165,17 +178,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b830ec5ba5a3a463",
+  "active": "7eb2c3e866ba234d",
   "lastOpenFiles": [
-    "Forthcoming Exam Sessions.md",
+    "Cybersecurity/Lectures-Slides/CS6 - EU Cybersecurity Policies.md",
+    "Cybersecurity/Lectures-Slides/CS7 - General Data Protection Regulation.md",
     "Social Network Analysis/Lectures-SLides/SNA3 - Network Models.md",
+    "Forthcoming Exam Sessions.md",
     "Social Network Analysis/Lectures-SLides/SNA1 - Introduction.md",
     "Social Network Analysis/Lectures-SLides/SNA2 - Network Types.md",
     "Security for Cloud Computing/Lectures-Slides/SCP8 - Differential Privacy.md",
     "Security for Cloud Computing/Lectures-Slides/SCP7 - Attribute Disclosure.md",
     "Security for Cloud Computing/Lectures-Slides/SCP6 - Identity Disclosure 2.md",
-    "Security for Cloud Computing/Lectures-Slides/SCP5 - Identity Disclosure.md",
-    "Security for Cloud Computing/Lectures-Slides/SCP1 - Intro, Macro and Microdata.md",
-    "Security for Cloud Computing/Lectures-Slides/SCP2 - Macrodata Tables of Counts.md"
+    "Security for Cloud Computing/Lectures-Slides/SCP5 - Identity Disclosure.md"
   ]
 }
