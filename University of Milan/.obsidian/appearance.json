@@ -1,5 +1,6 @@
 {
   "cssTheme": "Spectrum",
   "baseFontSize": 14,
-  "textFontFamily": ""
+  "textFontFamily": "",
+  "accentColor": ""
 }

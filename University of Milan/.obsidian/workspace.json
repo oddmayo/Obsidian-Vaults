@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b830ec5ba5a3a463",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Social Network Analysis/Lectures-SLides/SNA2 - Network Types.md",
-            "mode": "source",
-            "source": false
+        "id": "352559b018d2897d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b830ec5ba5a3a463",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Network Analysis/Lectures-SLides/SNA3 - Network Models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -61,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e584ad20106ecef1",
@@ -77,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social Network Analysis/Lectures-SLides/SNA2 - Network Types.md",
+                "file": "Social Network Analysis/Lectures-SLides/SNA3 - Network Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Social Network Analysis/Lectures-SLides/SNA2 - Network Types.md",
+                "file": "Social Network Analysis/Lectures-SLides/SNA3 - Network Models.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Social Network Analysis/Lectures-SLides/SNA2 - Network Types.md"
+                "file": "Social Network Analysis/Lectures-SLides/SNA3 - Network Models.md"
               }
             }
           },
@@ -153,16 +162,19 @@
     "width": 300,
     "collapsed": true
   },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
   "active": "b830ec5ba5a3a463",
   "lastOpenFiles": [
-    "Social Network Analysis/Lectures-SLides/SNA3 -.md",
-    "Social Network Analysis/Lectures-SLides/SNA2 - Network Types.md",
+    "Forthcoming Exam Sessions.md",
+    "Social Network Analysis/Lectures-SLides/SNA3 - Network Models.md",
     "Social Network Analysis/Lectures-SLides/SNA1 - Introduction.md",
+    "Social Network Analysis/Lectures-SLides/SNA2 - Network Types.md",
     "Security for Cloud Computing/Lectures-Slides/SCP8 - Differential Privacy.md",
     "Security for Cloud Computing/Lectures-Slides/SCP7 - Attribute Disclosure.md",
     "Security for Cloud Computing/Lectures-Slides/SCP6 - Identity Disclosure 2.md",
     "Security for Cloud Computing/Lectures-Slides/SCP5 - Identity Disclosure.md",
-    "Forthcoming Exam Sessions.md",
     "Security for Cloud Computing/Lectures-Slides/SCP1 - Intro, Macro and Microdata.md",
     "Security for Cloud Computing/Lectures-Slides/SCP2 - Macrodata Tables of Counts.md"
   ]
