@@ -45,4 +45,92 @@ It should apply to natural persons, whatever their nationality or place of resid
 - "Data is the new oil"
 - "Data as the next natural resource"
 - "Data is the core asset, and the core lubricant of every economic model"
-- 
+
+## Key definitions
+
+### Personal data - article 4(1)
+
+**Any information** relating to an identified or identifiable natural person (*data subject*); an identifiable natural person is one who can be identified, directly or indirectly, from that data. In particular:
+- name
+- identification number
+- location data
+- factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity
+
+#### Categories of personal data
+
+![[Pasted image 20221018082605.png]]
+
+#### Anonymization
+
+Recital 26: account should be taken of **all the means** reasonably likely to be used
+
+The principles of data protection **should not apply to anonymous information**, which does not relate to an identifiable natural person
+
+**This regulation does not therefore concern the processing of such anonymous information**
+
+#### Special categories of personal data (ex sensitive data)
+
+- racial or ethnic origin
+- political opinions
+- religious or philosophical beliefs
+- trade union membership
+
+#### Special categories of personal data (sensitive data)
+
+- Genetic data
+- Biometric data
+- Data concerning health
+
+---
+![[Pasted image 20221018083445.png]]
+
+---
+
+### What is processing? Example
+
+Employers collect and process data about their employees, including information relating to their salaries
+
+Employers will have to forward their staff's salary data to the tax authorities. Without legal basis and in the absence of legitimate ground for processing this transmission of personal data would be unlawful processing
+
+### When are we allowed to process personal data?
+
+#### Article 6 - Lawfulness of processing
+
+At least one of the following applies:
+1. Consent
+2. Performance of a contract
+3. Compliance with a legal obligation
+4. Protect the vital interests of the data subject or of another natural person
+5. Performance of a task carried out in the public interest
+6. Purposes of the legitimate interests
+
+#### Definition of consent - article 4(11)
+
+Means any freely given, specific, informed and unambiguous indication the data subject's wishes by which he or she, by a statement or by a clear affirmative action, signifies **agreement to the processing of personal data** relating to him or her
+
+##### Conditions of consent
+
+- Implicit consent is unacceptable
+- The controller should demonstrate that the data subject has consented to processing
+- Freely give, specific, informed, unambiguous
+- Must be obtained for every processing scenario
+- Can be withdrawn every time
+
+#### Vital interests of the data subject or of another natural person
+
+The processing can also be regarded to be lawful where it is necessary to protect an interest which is **essential for the life of the data subject or that of another natural person**
+
+#### Article 9(1) - Special categories of personal data
+
+For the purpose of uniquely identifying a natural person, data concerning health or sex life or sexual orientation **shall be prohibited**
+
+Conditions for processing special category of data Article 9(2):
+
+- Explicit consent
+- Required to comply with employment or social security
+- Protect vital interests of individual
+- In connection with legal proceedings and administration of justice
+- Public health
+
+
+
