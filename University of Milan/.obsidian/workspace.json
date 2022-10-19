@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Network Analysis/Lectures-SLides/SNA6 - Connectivity.md",
+                "file": "Social Network Analysis/Lectures-SLides/SNA5 - Connectivity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2aa4b50bdb860b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Network Analysis/Lectures-SLides/SNA6 - Centrality.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e584ad20106ecef1",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social Network Analysis/Lectures-SLides/SNA6 - Connectivity.md",
+                "file": "Social Network Analysis/Lectures-SLides/SNA6 - Centrality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Social Network Analysis/Lectures-SLides/SNA6 - Connectivity.md",
+                "file": "Social Network Analysis/Lectures-SLides/SNA6 - Centrality.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Social Network Analysis/Lectures-SLides/SNA6 - Connectivity.md"
+                "file": "Social Network Analysis/Lectures-SLides/SNA6 - Centrality.md"
               }
             }
           },
@@ -165,17 +177,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6bbc5cd1401b28ff",
+  "active": "c2aa4b50bdb860b2",
   "lastOpenFiles": [
-    "Social Network Analysis/Lectures-SLides/SNA5 - BA Model (Lab).md",
-    "Social Network Analysis/Lectures-SLides/SNA4 - Network Models.md",
-    "Forthcoming Exam Sessions.md",
+    "Social Network Analysis/Lectures-SLides/SNA5 - Connectivity.md",
+    "Social Network Analysis/Lectures-SLides/SNA4 - BA Model (Lab).md",
+    "Social Network Analysis/Lectures-SLides/SNA3 - Network Models.md",
     "Social Network Analysis/Lectures-SLides/SNA2 - Network Types.md",
     "Social Network Analysis/Lectures-SLides/SNA1 - Introduction.md",
+    "Forthcoming Exam Sessions.md",
     "Cybersecurity/Lectures-Slides/CS9 - Cybersecurity and Protection According to GDPR.md",
     "Cybersecurity/Lectures-Slides/CS8 - GDPR continuation.md",
     "Cybersecurity/Lectures-Slides/CS7 - General Data Protection Regulation.md",
-    "Cybersecurity/Lectures-Slides/CS6 - EU Cybersecurity Policies.md",
-    "Security for Cloud Computing/Lectures-Slides/SCP8 - Differential Privacy.md"
+    "Cybersecurity/Lectures-Slides/CS6 - EU Cybersecurity Policies.md"
   ]
 }
