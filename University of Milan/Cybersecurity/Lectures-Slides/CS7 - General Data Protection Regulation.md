@@ -1,3 +1,5 @@
+# October 10 - 2022
+
 # The General Data Protection Regulation - GDPR
 
 On the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC
@@ -86,7 +88,11 @@ The principles of data protection **should not apply to anonymous information**,
 
 ---
 
-### What is processing? Example
+### What is processing? 
+
+**Any operation or set of operations** which is performed on personal data or on sets of personal data, whether or not by automated means
+
+#### Example
 
 Employers collect and process data about their employees, including information relating to their salaries
 
@@ -97,12 +103,12 @@ Employers will have to forward their staff's salary data to the tax authorities.
 #### Article 6 - Lawfulness of processing
 
 At least one of the following applies:
-1. Consent
-2. Performance of a contract
-3. Compliance with a legal obligation
-4. Protect the vital interests of the data subject or of another natural person
-5. Performance of a task carried out in the public interest
-6. Purposes of the legitimate interests
+1. **Consent**
+2. Performance of a **contract**
+3. Compliance with a **legal obligation**
+4. Protect the **vital interests** of the data subject or of another natural person
+5. Performance of a task carried out in the **public interest**
+6. Purposes of the **legitimate interests**
 
 #### Definition of consent - article 4(11)
 
@@ -131,6 +137,4 @@ Conditions for processing special category of data Article 9(2):
 - Protect vital interests of individual
 - In connection with legal proceedings and administration of justice
 - Public health
-
-
 
