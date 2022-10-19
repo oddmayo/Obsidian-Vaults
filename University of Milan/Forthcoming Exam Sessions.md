@@ -19,7 +19,6 @@ December first call
 
 ## Micro-econometrics, Causal Inference and Time Series Econometrics
 
-**November 14** - *Micro-econometrics & Causal Inference*
 **November 15** - *Time Series* - 4:30pm
 
 ## Social Network Analysis
