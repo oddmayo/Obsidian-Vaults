@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3b458d7e8cc720e3",
+        "id": "1a6aa8595a4d4088",
         "type": "tabs",
         "children": [
           {
-            "id": "25350c1b62fc3705",
+            "id": "6bbc5cd1401b28ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Network Analysis/Lectures-SLides/SNA4 - Network Models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be77fc7511f6201d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Social Network Analysis/Lectures-SLides/SNA5 - BA Model (Lab).md",
+                "file": "Social Network Analysis/Lectures-SLides/SNA6 - Connectivity.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social Network Analysis/Lectures-SLides/SNA5 - BA Model (Lab).md",
+                "file": "Social Network Analysis/Lectures-SLides/SNA6 - Connectivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Social Network Analysis/Lectures-SLides/SNA5 - BA Model (Lab).md",
+                "file": "Social Network Analysis/Lectures-SLides/SNA6 - Connectivity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Social Network Analysis/Lectures-SLides/SNA5 - BA Model (Lab).md"
+                "file": "Social Network Analysis/Lectures-SLides/SNA6 - Connectivity.md"
               }
             }
           },
@@ -178,10 +165,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "be77fc7511f6201d",
+  "active": "6bbc5cd1401b28ff",
   "lastOpenFiles": [
-    "Social Network Analysis/Lectures-SLides/SNA4 - Network Models.md",
     "Social Network Analysis/Lectures-SLides/SNA5 - BA Model (Lab).md",
+    "Social Network Analysis/Lectures-SLides/SNA4 - Network Models.md",
     "Forthcoming Exam Sessions.md",
     "Social Network Analysis/Lectures-SLides/SNA2 - Network Types.md",
     "Social Network Analysis/Lectures-SLides/SNA1 - Introduction.md",
