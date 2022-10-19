@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "be77fc7511f6201d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Network Analysis/Lectures-SLides/SNA5 - BA Model (Lab).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social Network Analysis/Lectures-SLides/SNA4 - Network Models.md",
+                "file": "Social Network Analysis/Lectures-SLides/SNA5 - BA Model (Lab).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Social Network Analysis/Lectures-SLides/SNA4 - Network Models.md",
+                "file": "Social Network Analysis/Lectures-SLides/SNA5 - BA Model (Lab).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Social Network Analysis/Lectures-SLides/SNA4 - Network Models.md"
+                "file": "Social Network Analysis/Lectures-SLides/SNA5 - BA Model (Lab).md"
               }
             }
           },
@@ -165,13 +178,13 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "25350c1b62fc3705",
+  "active": "be77fc7511f6201d",
   "lastOpenFiles": [
-    "Forthcoming Exam Sessions.md",
     "Social Network Analysis/Lectures-SLides/SNA4 - Network Models.md",
+    "Social Network Analysis/Lectures-SLides/SNA5 - BA Model (Lab).md",
+    "Forthcoming Exam Sessions.md",
     "Social Network Analysis/Lectures-SLides/SNA2 - Network Types.md",
     "Social Network Analysis/Lectures-SLides/SNA1 - Introduction.md",
-    "Untitled.md",
     "Cybersecurity/Lectures-Slides/CS9 - Cybersecurity and Protection According to GDPR.md",
     "Cybersecurity/Lectures-Slides/CS8 - GDPR continuation.md",
     "Cybersecurity/Lectures-Slides/CS7 - General Data Protection Regulation.md",
