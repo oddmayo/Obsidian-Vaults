@@ -2,7 +2,6 @@
 
 ## Algorithms for Massive Data, Cloud and Distributed Computing
 
-December first call
 **Next year**
 
 ## Coding for Data Science and Data Management
@@ -11,7 +10,7 @@ December first call
 
 ## Cybersecurity and Data Preservation Techniques and Digital Security and Privacy
 
-**November 30** - to be determined
+**Next year**
 
 ## Machine Learning, Statistical Learning, Deep Learning and Artificial Intelligence
 
@@ -23,7 +22,7 @@ December first call
 
 ## Social Network Analysis
 
-**November 15** - 10am
+**Next year**
 
 ## Advanced Macroeconomics and Microeconomics
 
