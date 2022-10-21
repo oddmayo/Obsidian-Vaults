@@ -1,4 +1,71 @@
 # October 14 - 2022
+
+# Examples of re-identification
+
+## Re-identification with any information
+
+**Any information** can be used to re-identify anonymous data
+$\rightarrow$ ensuring proper privacy protection is a difficult task since the amount and variety of data collected about individuals is increased
+
+Two examples: AOL and Netflix
+
+## AOL data release
+
+In 2006, AIL publicly posted to a website 20 million search queries for 650.000 users of AOL's search engine summarizing three months of activity
+
+AOL suppressed identifying information and replaced these identifiers with **unique identification numbers** and made searches by the same user **linkable**
+![[Pasted image 20221021204717.png]]
+
+She was re-identified by two New York Times reporters
+![[Pasted image 20221021204758.png]]
+
+## Netflix prize data study
+
+In 2006, Netflix provided 100 millions records revealing how nearly 500.000 of its users had rated movies from 1998 to 2005
+
+Identifying information was removed, but a **unique user identifier** was assigned to preserve rating-to-rating continuity
+
+Release was not $k$-anonymous for any $k>1$
+
+Very little information is needed to de-anonymize and average subscriber record
+
+**Movies may reveal your political orientation, religious views, or sexual orientations**
+
+
+## Examples for privacy issues
+
+### Privacy and genomic data
+
+**Genomic information** is an opportunity for medicine but there are several **privacy** issues to be addressed
+
+E.g., human genome
+- **identifies** its owner
+- contains information about **ethnic heritage**, **predisposition** to several **diseases**, and other **phenotypic traits**
+- discloses information about the **relatives** and **descendants** of the genome's owner
+
+![[Pasted image 20221021231601.png]]
+
+### Sensitive inference from data mining
+
+**Target case**
+
+Second-largest discount retailer in the U.S.
+
+![[Pasted image 20221021231928.png]]
+
+Mining data reveals customers' **major life events**
+
+## Inferences from social networks
+
+People tend to **connect with others with **similar interests/activities/experiences
+
+What one discloses **exposes** not only him but also **others**
+![[Pasted image 20221021233000.png]]
+
+
+
+
+
 # Privacy in data publication - Differential Privacy
 
 ## Our world is guided by data
