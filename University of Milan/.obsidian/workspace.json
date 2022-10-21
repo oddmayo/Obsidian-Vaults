@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c3d5dedc7e04f9ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security for Cloud Computing/Lectures-Slides/SCP8 - Differential Privacy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cca80df0d0c24fc1",
             "type": "leaf",
             "state": {
@@ -30,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f09df2e7603477e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security for Cloud Computing/Lectures-Slides/SCP10 - Authentication and Access Control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security for Cloud Computing/Lectures-Slides/SCP8 - Differential Privacy.md",
+                "file": "Security for Cloud Computing/Lectures-Slides/SCP10 - Authentication and Access Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security for Cloud Computing/Lectures-Slides/SCP8 - Differential Privacy.md",
+                "file": "Security for Cloud Computing/Lectures-Slides/SCP10 - Authentication and Access Control.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security for Cloud Computing/Lectures-Slides/SCP8 - Differential Privacy.md"
+                "file": "Security for Cloud Computing/Lectures-Slides/SCP10 - Authentication and Access Control.md"
               }
             }
           },
@@ -177,9 +178,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c3d5dedc7e04f9ee",
+  "active": "9f09df2e7603477e",
   "lastOpenFiles": [
     "Security for Cloud Computing/Lectures-Slides/SCP9 - Differential Privacy 2.md",
+    "Security for Cloud Computing/Lectures-Slides/SCP10 - Authentication and Access Control.md",
     "Security for Cloud Computing/Lectures-Slides/SCP8 - Differential Privacy.md",
     "Security for Cloud Computing/Lectures-Slides/SCP7 - Attribute Disclosure.md",
     "Forthcoming Exam Sessions.md",
@@ -187,7 +189,6 @@
     "Statistical Learning/SL4 - Lab - Linear Reg.md",
     "Coding for Data Science and Data Management/Past exam clues.md",
     "Coding for Data Science and Data Management/Data management slides.md",
-    "Coding for Data Science and Data Management/R coding.md",
-    "Coding for Data Science and Data Management/Python coding.md"
+    "Coding for Data Science and Data Management/R coding.md"
   ]
 }
