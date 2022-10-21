@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "1a6aa8595a4d4088",
+        "id": "a49842b25f52178e",
         "type": "tabs",
         "children": [
           {
-            "id": "6bbd2f60075b8f0a",
+            "id": "c3d5dedc7e04f9ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Network Analysis/Lectures-SLides/SNA7 - Centrality 2.md",
+                "file": "Security for Cloud Computing/Lectures-Slides/SCP8 - Differential Privacy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cca80df0d0c24fc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security for Cloud Computing/Lectures-Slides/SCP9 - Differential Privacy 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social Network Analysis/Lectures-SLides/SNA7 - Centrality 2.md",
+                "file": "Security for Cloud Computing/Lectures-Slides/SCP9 - Differential Privacy 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Social Network Analysis/Lectures-SLides/SNA7 - Centrality 2.md",
+                "file": "Security for Cloud Computing/Lectures-Slides/SCP9 - Differential Privacy 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Social Network Analysis/Lectures-SLides/SNA7 - Centrality 2.md"
+                "file": "Security for Cloud Computing/Lectures-Slides/SCP9 - Differential Privacy 2.md"
               }
             }
           },
@@ -165,17 +178,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6bbd2f60075b8f0a",
+  "active": "cca80df0d0c24fc1",
   "lastOpenFiles": [
+    "Security for Cloud Computing/Lectures-Slides/SCP8 - Differential Privacy.md",
+    "Security for Cloud Computing/Lectures-Slides/SCP9 - Differential Privacy 2.md",
     "Forthcoming Exam Sessions.md",
-    "Social Network Analysis/Lectures-SLides/SNA7 - Centrality 2.md",
-    "Social Network Analysis/Lectures-SLides/SNA6 - Centrality.md",
-    "Social Network Analysis/Lectures-SLides/SNA5 - Connectivity.md",
-    "Z-Images/Pasted image 20221020080955.png",
-    "Social Network Analysis/Lectures-SLides/SNA4 - BA Model (Lab).md",
-    "Social Network Analysis/Lectures-SLides/SNA3 - Network Models.md",
-    "Social Network Analysis/Lectures-SLides/SNA2 - Network Types.md",
-    "Social Network Analysis/Lectures-SLides/SNA1 - Introduction.md",
-    "Cybersecurity/Lectures-Slides/CS9 - Cybersecurity and Protection According to GDPR.md"
+    "Statistical Learning/SL1 -Introduction.md",
+    "Statistical Learning/SL4 - Lab - Linear Reg.md",
+    "Coding for Data Science and Data Management/Past exam clues.md",
+    "Coding for Data Science and Data Management/Data management slides.md",
+    "Coding for Data Science and Data Management/R coding.md",
+    "Coding for Data Science and Data Management/Python coding.md",
+    "Social Network Analysis/Lectures-SLides/SNA7 - Centrality 2.md"
   ]
 }
