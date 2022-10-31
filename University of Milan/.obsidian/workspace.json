@@ -8,36 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "48d4c1bb5e71d17f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/Lectures-Slides/CS10 - Data Security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "829c8deecde8db5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/Lectures-Slides/CS11 - Encryption.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0102121067c0a003",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.3"
+                "file": "Security for Cloud Computing/Lectures-Slides/SCP10 - Authentication and Access Control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04ee6a7b92e091ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security for Cloud Computing/Lectures-Slides/SCP11 - Authentication and Access Control 2.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -109,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity/Lectures-Slides/CS11 - Encryption.md",
+                "file": "Security for Cloud Computing/Lectures-Slides/SCP11 - Authentication and Access Control 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity/Lectures-Slides/CS11 - Encryption.md",
+                "file": "Security for Cloud Computing/Lectures-Slides/SCP11 - Authentication and Access Control 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity/Lectures-Slides/CS11 - Encryption.md"
+                "file": "Security for Cloud Computing/Lectures-Slides/SCP11 - Authentication and Access Control 2.md"
               }
             }
           },
@@ -185,17 +175,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "829c8deecde8db5b",
+  "active": "04ee6a7b92e091ed",
   "lastOpenFiles": [
+    "Security for Cloud Computing/Lectures-Slides/SCP10 - Authentication and Access Control.md",
+    "Security for Cloud Computing/Lectures-Slides/SCP11 - Authentication and Access Control 2.md",
+    "Security for Cloud Computing/Lectures-Slides/SCP9 - Differential Privacy 2.md",
     "Cybersecurity/Lectures-Slides/CS10 - Data Security.md",
+    "Cybersecurity/Lectures-Slides/CS11 - Encryption.md",
     "Cybersecurity/Lectures-Slides/CS9 - Cybersecurity and Protection According to GDPR.md",
     "Cybersecurity/Lectures-Slides/CS7 - General Data Protection Regulation.md",
     "Cybersecurity/Lectures-Slides/CS8 - GDPR continuation.md",
     "Forthcoming Exam Sessions.md",
-    "Statistical Learning/SL1 -Introduction.md",
-    "Security for Cloud Computing/Lectures-Slides/SCP9 - Differential Privacy 2.md",
-    "Security for Cloud Computing/Lectures-Slides/SCP10 - Authentication and Access Control.md",
-    "Security for Cloud Computing/Lectures-Slides/SCP8 - Differential Privacy.md",
-    "Security for Cloud Computing/Lectures-Slides/SCP7 - Attribute Disclosure.md"
+    "Statistical Learning/SL1 -Introduction.md"
   ]
 }
