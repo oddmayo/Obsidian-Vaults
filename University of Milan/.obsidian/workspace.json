@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding for Data Science and Data Management/Lectures/DM1 - Relations.md",
+                "file": "Coding for Data Science and Data Management/Lectures/DM1 & 2 - Relations.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding for Data Science and Data Management/Lectures/DM2 -.md",
+                "file": "Coding for Data Science and Data Management/Lectures/DM3 -.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding for Data Science and Data Management/Lectures/DM2 -.md",
+                "file": "Coding for Data Science and Data Management/Lectures/DM3 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding for Data Science and Data Management/Lectures/DM2 -.md",
+                "file": "Coding for Data Science and Data Management/Lectures/DM3 -.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding for Data Science and Data Management/Lectures/DM2 -.md"
+                "file": "Coding for Data Science and Data Management/Lectures/DM3 -.md"
               }
             }
           },
@@ -175,8 +175,8 @@
   },
   "active": "3309471f34cb4554",
   "lastOpenFiles": [
-    "Coding for Data Science and Data Management/Lectures/DM1 - Relations.md",
-    "Coding for Data Science and Data Management/Lectures/DM2 -.md",
+    "Coding for Data Science and Data Management/Lectures/DM1 & 2 - Relations.md",
+    "Coding for Data Science and Data Management/Lectures/DM3 -.md",
     "Security for Cloud Computing/Lectures-Slides/SCP11 - Authentication and Access Control 2.md",
     "Coding for Data Science and Data Management/SQL.md",
     "Coding for Data Science and Data Management/R coding.md",
