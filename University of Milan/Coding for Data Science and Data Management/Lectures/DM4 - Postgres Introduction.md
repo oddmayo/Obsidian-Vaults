@@ -15,6 +15,8 @@ In Postgres you can create many databases, each databases contains many schemas
 
 ---
 
+On the dsedb empty schema
+
 ``` SQL 
 -- SQL is composed of
 -- DDL component: data definition language; creation of tables
@@ -37,9 +39,9 @@ SELECT
 --decimal - numeric data with decimal parts
 --boolean
 --text - very long textual data
-CREATE TABLE movie(
+CREATE TABLE dsedb.movie(
 id varchar(10) PRIMARY KEY,
-official_title varchar(256 NOT NULL,
+official_title varchar(256) NOT NULL,
 year char(4) NOT NULL,
 budget decimal (12,2),
 length integer CHECK(length > 0),
@@ -52,9 +54,9 @@ UNIQUE(official_title, year)
 -- possible values of budget: 234322.23, 284838.23, 9999999999.99
 	
 -- Another valid configuration considering a combination of attributes as primary key
-CREATE TABLE movie(
+CREATE TABLE dsedb.movie(
 id varchar(10) UNIQUE,
-official_title varchar(256 NOT NULL,
+official_title varchar(256) NOT NULL,
 year char(4) NOT NULL,
 budget decimal (12,2),
 length integer,
@@ -65,7 +67,7 @@ PRIMARY KEY(official_title, year)
 -- create the table crew
 -- crew(personid, movieid, role, character)
 	
-CREATE TABLE crew(
+CREATE TABLE dsedb.crew(
 movieid varchar(10),
 personid varchar(10),
 role varchar(10),
