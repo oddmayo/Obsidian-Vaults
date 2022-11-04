@@ -92,4 +92,3 @@ FROM imdb.person INNER JOIN imdb.crew ON person.id = crew.person INNER JOIN imdb
 -- to be continued next lesson
 
 ```
-

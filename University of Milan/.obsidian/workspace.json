@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16fadaa0c245b4e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding for Data Science and Data Management/Lectures/DM7 - JOIN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding for Data Science and Data Management/Lectures/DM6 - Querying.md",
+                "file": "Coding for Data Science and Data Management/Lectures/DM7 - JOIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding for Data Science and Data Management/Lectures/DM6 - Querying.md",
+                "file": "Coding for Data Science and Data Management/Lectures/DM7 - JOIN.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding for Data Science and Data Management/Lectures/DM6 - Querying.md"
+                "file": "Coding for Data Science and Data Management/Lectures/DM7 - JOIN.md"
               }
             }
           },
@@ -173,17 +185,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d83dcae7eb83ffad",
+  "active": "16fadaa0c245b4e7",
   "lastOpenFiles": [
-    "Coding for Data Science and Data Management/Lectures/DM5 - Postgres continuation.md",
     "Coding for Data Science and Data Management/Lectures/DM6 - Querying.md",
+    "Coding for Data Science and Data Management/Lectures/DM7 - JOIN.md",
+    "Coding for Data Science and Data Management/Lectures/DM5 - Postgres continuation.md",
     "Coding for Data Science and Data Management/Lectures/DM4 - Postgres Introduction.md",
     "Coding for Data Science and Data Management/Lectures/DM3 - Identification of records.md",
     "Coding for Data Science and Data Management/Lectures/DM1 & 2 - Relations.md",
     "Coding for Data Science and Data Management/Python coding.md",
     "Coding for Data Science and Data Management/R coding.md",
     "Coding for Data Science and Data Management/Past exam clues.md",
-    "Coding for Data Science and Data Management/Data management slides.md",
-    "Security for Cloud Computing/Lectures-Slides/SCP11 - Authentication and Access Control 2.md"
+    "Coding for Data Science and Data Management/Data management slides.md"
   ]
 }

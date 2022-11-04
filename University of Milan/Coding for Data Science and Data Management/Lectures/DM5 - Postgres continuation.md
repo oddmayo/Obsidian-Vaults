@@ -50,4 +50,3 @@ INSERT INTO dsedb.movie(id,official_title,year,budget)
 VALUES(1212,'another name',2005,50000); -- single quotes for text data
 
 ```
-
