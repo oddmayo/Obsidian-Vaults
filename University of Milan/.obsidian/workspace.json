@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding for Data Science and Data Management/Lectures/DM5 - Postgres continuation.md",
+                "file": "Coding for Data Science and Data Management/Lectures/DM5 - Postgres Continuation.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e6349fe810ddeb60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding for Data Science and Data Management/Lectures/DM8 - JOIN part 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69571cbce68e1497",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding for Data Science and Data Management/Lectures/DM9 -  Aggregation Operators.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding for Data Science and Data Management/Lectures/DM7 - JOIN.md",
+                "file": "Coding for Data Science and Data Management/Lectures/DM9 -  Aggregation Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding for Data Science and Data Management/Lectures/DM7 - JOIN.md",
+                "file": "Coding for Data Science and Data Management/Lectures/DM9 -  Aggregation Operators.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding for Data Science and Data Management/Lectures/DM7 - JOIN.md"
+                "file": "Coding for Data Science and Data Management/Lectures/DM9 -  Aggregation Operators.md"
               }
             }
           },
@@ -185,17 +209,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "16fadaa0c245b4e7",
+  "active": "69571cbce68e1497",
   "lastOpenFiles": [
-    "Coding for Data Science and Data Management/Lectures/DM6 - Querying.md",
+    "Coding for Data Science and Data Management/Lectures/DM8 - JOIN part 2.md",
     "Coding for Data Science and Data Management/Lectures/DM7 - JOIN.md",
-    "Coding for Data Science and Data Management/Lectures/DM5 - Postgres continuation.md",
+    "Coding for Data Science and Data Management/Lectures/DM6 - Querying.md",
+    "Coding for Data Science and Data Management/Lectures/DM5 - Postgres Continuation.md",
     "Coding for Data Science and Data Management/Lectures/DM4 - Postgres Introduction.md",
-    "Coding for Data Science and Data Management/Lectures/DM3 - Identification of records.md",
     "Coding for Data Science and Data Management/Lectures/DM1 & 2 - Relations.md",
+    "Coding for Data Science and Data Management/Lectures/DM3 - Identification of Records.md",
+    "Coding for Data Science and Data Management/Lectures/DM9 -  Aggregation Operators.md",
     "Coding for Data Science and Data Management/Python coding.md",
-    "Coding for Data Science and Data Management/R coding.md",
-    "Coding for Data Science and Data Management/Past exam clues.md",
-    "Coding for Data Science and Data Management/Data management slides.md"
+    "Coding for Data Science and Data Management/R coding.md"
   ]
 }
