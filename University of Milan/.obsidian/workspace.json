@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f5d9d9fbffc89c8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding for Data Science and Data Management/Lectures/DM12 - MongoDB Querying.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding for Data Science and Data Management/Lectures/DM11 - MongoDB.md",
+                "file": "Coding for Data Science and Data Management/Lectures/DM12 - MongoDB Querying.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding for Data Science and Data Management/Lectures/DM11 - MongoDB.md",
+                "file": "Coding for Data Science and Data Management/Lectures/DM12 - MongoDB Querying.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding for Data Science and Data Management/Lectures/DM11 - MongoDB.md"
+                "file": "Coding for Data Science and Data Management/Lectures/DM12 - MongoDB Querying.md"
               }
             }
           },
@@ -172,10 +184,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "5f7f42c8b8501b23",
+  "active": "f5d9d9fbffc89c8b",
   "lastOpenFiles": [
+    "Coding for Data Science and Data Management/Lectures/DM11 - MongoDB.md",
     "Coding for Data Science and Data Management/Lectures/DM10 - Intro to NoSQL.md",
     "Coding for Data Science and Data Management/Lectures/DM8 - JOIN part 2.md",
     "Coding for Data Science and Data Management/Data management slides.md",
@@ -184,7 +198,6 @@
     "Coding for Data Science and Data Management/Lectures/DM6 - Querying.md",
     "Coding for Data Science and Data Management/Lectures/DM5 - Postgres Continuation.md",
     "Coding for Data Science and Data Management/Lectures/DM4 - Postgres Introduction.md",
-    "Coding for Data Science and Data Management/Lectures/DM1 & 2 - Relations.md",
-    "Coding for Data Science and Data Management/Lectures/DM3 - Identification of Records.md"
+    "Coding for Data Science and Data Management/Lectures/DM1 & 2 - Relations.md"
   ]
 }
