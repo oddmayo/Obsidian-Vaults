@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f7f42c8b8501b23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding for Data Science and Data Management/Lectures/DM11 - MongoDB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding for Data Science and Data Management/Lectures/DM10 - Intro to NoSQL.md",
+                "file": "Coding for Data Science and Data Management/Lectures/DM11 - MongoDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding for Data Science and Data Management/Lectures/DM10 - Intro to NoSQL.md",
+                "file": "Coding for Data Science and Data Management/Lectures/DM11 - MongoDB.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding for Data Science and Data Management/Lectures/DM10 - Intro to NoSQL.md"
+                "file": "Coding for Data Science and Data Management/Lectures/DM11 - MongoDB.md"
               }
             }
           },
@@ -147,7 +160,7 @@
             }
           },
           {
-            "id": "ba17d75fbf5c06fe",
+            "id": "74f49e2f6e563b05",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -159,11 +172,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "67a50a2b8a2f25c4",
+  "active": "5f7f42c8b8501b23",
   "lastOpenFiles": [
+    "Coding for Data Science and Data Management/Lectures/DM10 - Intro to NoSQL.md",
     "Coding for Data Science and Data Management/Lectures/DM8 - JOIN part 2.md",
     "Coding for Data Science and Data Management/Data management slides.md",
     "Coding for Data Science and Data Management/Lectures/DM9 -  Aggregation Operators.md",
@@ -172,7 +185,6 @@
     "Coding for Data Science and Data Management/Lectures/DM5 - Postgres Continuation.md",
     "Coding for Data Science and Data Management/Lectures/DM4 - Postgres Introduction.md",
     "Coding for Data Science and Data Management/Lectures/DM1 & 2 - Relations.md",
-    "Coding for Data Science and Data Management/Lectures/DM3 - Identification of Records.md",
-    "Coding for Data Science and Data Management/Python coding.md"
+    "Coding for Data Science and Data Management/Lectures/DM3 - Identification of Records.md"
   ]
 }
