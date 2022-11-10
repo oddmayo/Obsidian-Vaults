@@ -14,7 +14,7 @@
 
 ## Machine Learning, Statistical Learning, Deep Learning and Artificial Intelligence
 
-**November 3** - *Statistical Learning*
+**November 3** - *Statistical Learning* - DONE :D
 
 ## Micro-econometrics, Causal Inference and Time Series Econometrics
 
