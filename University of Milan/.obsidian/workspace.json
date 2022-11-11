@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "67a50a2b8a2f25c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding for Data Science and Data Management/Lectures/DM10 - Intro to NoSQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f7f42c8b8501b23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding for Data Science and Data Management/Lectures/DM11 - MongoDB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f5d9d9fbffc89c8b",
             "type": "leaf",
             "state": {
@@ -66,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e8e79e5a8c225a7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Time Series/TS3 - Brown Motion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e584ad20106ecef1",
@@ -135,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Time Series/TS2 - VEC.md",
+                "file": "Time Series/TS3 - Brown Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Time Series/TS2 - VEC.md",
+                "file": "Time Series/TS3 - Brown Motion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Time Series/TS2 - VEC.md"
+                "file": "Time Series/TS3 - Brown Motion.md"
               }
             }
           },
@@ -211,10 +198,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d45d4fd70eab0249",
+  "active": "e8e79e5a8c225a7b",
   "lastOpenFiles": [
-    "Time Series/TS1 - Estimation and Correlogram.md",
     "Time Series/TS2 - VEC.md",
+    "Time Series/TS1 - Estimation and Correlogram.md",
     "Forthcoming Exam Sessions.md",
     "Coding for Data Science and Data Management/Lectures/DM1 & 2 - Relations.md",
     "Coding for Data Science and Data Management/Lectures/DM12 - MongoDB Querying.md",
