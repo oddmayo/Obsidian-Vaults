@@ -6,7 +6,7 @@
 
 ## Coding for Data Science and Data Management
 
-**November 14** - *Data Management*
+**November 14** - *Data Management* - 10:30 am
 
 ## Cybersecurity and Data Preservation Techniques and Digital Security and Privacy
 
