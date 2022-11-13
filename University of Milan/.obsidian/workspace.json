@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TS7 - Unit Root and Cointegration in VEC.md",
+                "file": "Time Series/TS7 - Unit Root and Cointegration in VEC.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e584ad20106ecef1",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TS7 - Unit Root and Cointegration in VEC.md",
+                "file": "Time Series/TS7 - Unit Root and Cointegration in VEC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TS7 - Unit Root and Cointegration in VEC.md",
+                "file": "Time Series/TS7 - Unit Root and Cointegration in VEC.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TS7 - Unit Root and Cointegration in VEC.md"
+                "file": "Time Series/TS7 - Unit Root and Cointegration in VEC.md"
               }
             }
           },
@@ -162,7 +161,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f29f23546d6b61d4",
+  "active": "9e2eed2c51c78be2",
   "lastOpenFiles": [
     "Time Series/TS6 - Lab 3 Forescasting Inflation.md",
     "Time Series/TS1 - Lab 1 Estimation and Correlogram.md",
@@ -170,7 +169,7 @@
     "Time Series/TS3 - Brownian Motion.md",
     "Time Series/TS2 - VEC.md",
     "Forthcoming Exam Sessions.md",
-    "TS7 - Unit Root and Cointegration in VEC.md",
+    "Time Series/TS7 - Unit Root and Cointegration in VEC.md",
     "Time Series/TS5 - Unit root testing.md",
     "Coding for Data Science and Data Management/Lectures/DM1 & 2 - Relations.md",
     "Coding for Data Science and Data Management/Lectures/DM12 - MongoDB Querying.md"
