@@ -105,9 +105,9 @@ SELECT MIN(LENGTH)
 FROM imdb.movie
 
 -- get the record corresponding to the lowest length
-SELECT 
+SELECT *
 FROM imbd.movie
-WHERE LENGTH = (SELECT MIN(LENGTH) FROM imbd.movie)
+WHERE LENGTH = (SELECT MIN(LENGTH) FROM imbd.movie))
 
 
 -- retrieve the overall length of 2010 movies

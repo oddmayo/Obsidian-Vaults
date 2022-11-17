@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Time Series/TS7 - Unit Root and Cointegration in VEC.md",
+                "file": "Advanced Macroeconomics/Macro1 - Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Time Series/TS7 - Unit Root and Cointegration in VEC.md",
+                "file": "Advanced Macroeconomics/Macro1 - Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Time Series/TS7 - Unit Root and Cointegration in VEC.md",
+                "file": "Advanced Macroeconomics/Macro1 - Introduction.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Time Series/TS7 - Unit Root and Cointegration in VEC.md"
+                "file": "Advanced Macroeconomics/Macro1 - Introduction.md"
               }
             }
           },
@@ -158,20 +158,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "9e2eed2c51c78be2",
+  "active": "f29f23546d6b61d4",
   "lastOpenFiles": [
-    "Time Series/TS6 - Lab 3 Forescasting Inflation.md",
+    "Advanced Macroeconomics/Macro8 - Expectations and Lucas critique.md",
+    "Advanced Macroeconomics/Macro7 - Unconventional MP.md",
+    "Advanced Macroeconomics/Macro6 - The Liquidity Trap.md",
+    "Advanced Macroeconomics/Macro5 - Monetary Policy.md",
+    "Advanced Macroeconomics/Macro4 - AD-AS Eq..md",
+    "Advanced Macroeconomics/Macro3 - Aggregate Supply.md",
+    "Advanced Macroeconomics/Macro2 - Aggregate Demand.md",
+    "Advanced Macroeconomics/Macro1 - Introduction.md",
     "Time Series/TS1 - Lab 1 Estimation and Correlogram.md",
-    "Time Series/TS4 - Unit Root.md",
-    "Time Series/TS3 - Brownian Motion.md",
-    "Time Series/TS2 - VEC.md",
-    "Forthcoming Exam Sessions.md",
-    "Time Series/TS7 - Unit Root and Cointegration in VEC.md",
-    "Time Series/TS5 - Unit root testing.md",
-    "Coding for Data Science and Data Management/Lectures/DM1 & 2 - Relations.md",
-    "Coding for Data Science and Data Management/Lectures/DM12 - MongoDB Querying.md"
+    "Time Series/TS7 - Unit Root and Cointegration in VEC.md"
   ]
 }

@@ -21,7 +21,7 @@ CREATE TABLE dsedb.person(
 	bio text,
 	birth_date date,
 	death_date date,
-	given_name varchar(200) NOT NULL,
+	given_name varchar(200) NOT NULL
 
 );
 
