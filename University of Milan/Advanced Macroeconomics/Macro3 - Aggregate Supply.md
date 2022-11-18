@@ -13,7 +13,7 @@ Aggregate #supply responds to changes in aggregate #demand [[Macro2 - Aggregate 
 We have to follow *4 steps*
 
 ## 1. Firm behavior
-Pricing decisions requiere imperfect #competition  (in perfect competition firms take prices as given $P = MC$), but in reality $prices > marginal.costs$ , so firms extract a  #markup when setting prices.
+Pricing decisions require imperfect #competition  (in perfect competition firms take prices as given $P = MC$), but in reality $prices > marginal.costs$ , so firms extract a #markup when setting prices.
 
 ### Monopolistic competition (imperfect competition)
 *Goods are not perfect substitutes* (market power)

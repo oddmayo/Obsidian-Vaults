@@ -8,7 +8,7 @@ Value of all *final goods* produced in the course of a period
 - It is also equal to the total *expenditure* on all final goods and services production in the economy
 	![[Pasted image 20220901233143.png]]
 
-- Also equal to the sum of all *income* received by econmic agents contributing to production
+- Also equal to the sum of all *income* received by economic agents contributing to production
 ![[Pasted image 20220901233228.png]]
 
 Then denote GDP by **Y** which is both total aggregate output and aggregate income:
@@ -45,7 +45,7 @@ Empirical analysis of business cycles $\rightarrow$ extract regularities about h
 **goal**: causal effects $\rightarrow$ economic policies (How?) $\rightarrow$ *Models*!
 
 ## Models
-Studies of the choices of free individuals inmersed in complex interactions
+Studies of the choices of free individuals immersed in complex interactions
 Key $\rightarrow$ *simplicity*: abstractions that capture essential features
 
 {actors, goods, preferences, technology, resources}
@@ -58,9 +58,10 @@ Run experiments and make *predictions* but we need two #assumptions:
 ![[Pasted image 20220902000911.png]]
 
 How do #shocks affect agents, policy makers and macro variables?
+
 ## Understanding macro events
 - Business cycles: causes $\rightarrow$ policy responses
-- Inflation: both high and low infltion are *problematic* $\rightarrow$ control it
+- Inflation: both high and low inflation are *problematic* $\rightarrow$ control it
 - #Interest_rate:
 	- Consumers: how much to borrow/lend
 	- Firms: how much to invest

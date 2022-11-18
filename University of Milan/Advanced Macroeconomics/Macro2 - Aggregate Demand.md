@@ -5,7 +5,7 @@ The level depends on private sector's spending and economic policy
 
 The real #Interest_rate  results from the *monetary policy decisions* and affects *private expenditure*
 
-There is an interconection between private and public decisions
+There is an ====interconnection between private and public decisions====
 
 ![[Pasted image 20220902190307.png]]
 ![[Pasted image 20220902190353.png]]
@@ -14,14 +14,14 @@ There is an interconection between private and public decisions
 ## The IS curve
 National accounting identity
 ![[Pasted image 20220902190702.png]]
-- *Private* spending components $C_t, I_t, X_t-M_t$ **descreasing** in $r_t$ 
+- *Private* spending components $C_t, I_t, X_t-M_t$ **decreasing** in $r_t$ 
 - *Government* spending components $G_t$ which is independent of $r_t$ 
 - Closed economy $X_t-M_t=0$ 
 - Investments $I_t=0$ 
 
 ## The real interest rate
-**Nominal #Interest_rate** $i_t$ : cost of borrowing or the return on investment in *monetary units*
-**Real interest rate** $r_t$ : cost .... in *consumption goods*
+**Nominal #Interest_rate** $i_t$ : cost of ====borrowing or the return==== on investment in *monetary units*
+**Real interest rate** $r_t$ : cost … in *consumption goods*
 
 The two differ because of the anticipated inflation rate
 ![[Pasted image 20220902191742.png]]
@@ -35,7 +35,7 @@ ignore future shocks
 *Combining* 1 and 2, agents have perfect foresight $\pi^e_{t+1}=\pi_{t+1}$ 
 
 ##  Real interest rate and the fisher equation
-Uner perfect foresight:
+Under perfect foresight:
 ![[Pasted image 20220902193223.png]]
 
 #fisher_equation:
@@ -49,19 +49,19 @@ Uner perfect foresight:
 Private consumption results from the households **optimal choices** considering preferences and constraints
 *Assumption*: marginal utility of consumption is decreasing
 
-Households want to smmoth consumption over time $\rightarrow$ relies on **variations in savings** 
+Households want to smooth consumption over time $\rightarrow$ relies on **variations in savings** 
 - When current *income* is *high* $\rightarrow$ *save*
 - When current *income* is **low** $\rightarrow$ **debt**
 ---
 **Households preferences and constraints**
 - large number of households $j=1,...J$ 
 - household seeks to maximize $u^j_t$ facing two #contraints: *budget and debt* 
-The intertemportal utility gest lower over time
+The intertemporal utility gest lower over time
 
-**Budget contraint**: consumption and savings cannot exceed the consumer resources
+**Budget constraint**: consumption and savings cannot exceed the consumer resources
 The sequence of budget constraints can be collapsed into the Intertemporal Budget Constraint - IBC
 
-**Debt contraint**: ![[Pasted image 20220902194923.png]]
+**Debt constraint**: ![[Pasted image 20220902194923.png]]
 This constraint may not bind: reaching the desired consumption level $C^{j*}_t$ may require going into debt $A^{j*}_t<0$ , it binds and determines $C^{j}_t<C^{j*}_t$  
 
 Summary:
@@ -90,7 +90,7 @@ It is a generalization of standard IS-LM with *greater realism*
 - $r_t$ governs spending decisions
 
 ## The AD curve
-1. Monetary policyas given and study the determinants of aggregate demand
+1. Monetary policies given and study the determinants of aggregate demand
 ![[Pasted image 20220902200523.png]]
 
 2. Endogenize the $r_t$, outcome of Central Bank's decisions
