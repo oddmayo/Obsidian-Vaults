@@ -1,7 +1,7 @@
 # Social preferences (self- and social-image)
 ## Quick recap
 - People care about others
-- People exhibit rational altrustic behavior
+- People exhibit rational altruistic behavior
 - People care not only about final outcomes but also about intentions
 
 [[Micro6 - Social Preferences]]

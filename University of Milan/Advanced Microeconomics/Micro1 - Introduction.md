@@ -11,7 +11,7 @@ Normative economics: what should be done (prescriptive)
 **Individual choice**: choose an alternative $x$ from a set $X$; *maximize* a #utility function $u$ which specifies how much $u$ per alternative $u:X\rightarrow R$ 
 
 *Example*:
-DM chooses wheter to drink wine or beer
+DM chooses whether to drink wine or beer
 $X$ = {wine, beer}
 utility function might say $u(wine)=10, u(beer)=5$
 

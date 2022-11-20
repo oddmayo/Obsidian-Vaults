@@ -1,5 +1,5 @@
 ## Quick recap
-- We defined rationality (axioms, preferences, utility mximization given constraints)
+- We defined rationality (axioms, preferences, utility maximization given constraints)
 - Appreciate economic models
 - People *sometime violate* predictions of rational models
 [[Micro1 - Introduction]]

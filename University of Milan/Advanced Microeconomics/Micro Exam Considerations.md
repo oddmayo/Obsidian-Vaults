@@ -25,6 +25,6 @@
 	- Inequity aversion
 - *Self control*
 	- Toussaert (2018)
-	- Importance of distinguis self-control and present bias agents
+	- Importance of distinguish self-control and present bias agents
 - *Bonus point*
 	- Behavioral trait(s) from plagiarism

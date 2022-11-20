@@ -26,9 +26,9 @@ If I easily fall prey to self-control
 
 Study whether consumers behave in a time consistent fashion
 Analysis of consumer contract choices from a menu
-*Choice*: montlhy, annual or pay-per-visit
+*Choice*: monthly, annual or pay-per-visit
 
-**Rational prediction**: they choose the utility-mazimizing contract
+**Rational prediction**: they choose the utility-maximizing contract
 
 ### D & M Model
 - Effort costs could either be high or low ($c=c_H$ or $c=c_L$)
@@ -37,13 +37,13 @@ Analysis of consumer contract choices from a menu
 
 ### Predictions vs findings
 *Prediction 1*: agent chooses flat-rate contract over pay-per-visit
-*Finding 1*: 80% of montlhy members would benefit from pay-per-visit (**irrational**)
+*Finding 1*: 80% of monthly members would benefit from pay-per-visit (**irrational**)
 
-*Predicion 2:* high cots expected to choose montlhy plan
+*Prediction 2:* high cots expected to choose monthly plan
 *Finding 2:* average attendance in months 2 to 4 is 10% higher than annual (**rational**)
 
 *Prediction 3*: average expected attendance equals average actual attendance
-*Finding 3:* expected number of visists per month more than twice of the average attendance
+*Finding 3:* expected number of visits per month more than twice of the average attendance
 
 *Prediction 4:* low attenders under the monthly contract delay cancellation for at most  few days
 *Finding 4:* more than two months to cancel
@@ -51,7 +51,7 @@ Analysis of consumer contract choices from a menu
 *Prediction 5:* survival probability after one and two years if higher for agents who initially chose monthly membership
 *Finding 5:* higher for for monthly contract
 
-*Prediciont 6:* annual contract in second year among stayers is higher than in the first year
+*Prediction 6:* annual contract in second year among stayers is higher than in the first year
 *Finding 6:* yes
 
 *Prediction 7:* monthly contract expected attendance should increase from month to month
@@ -66,19 +66,19 @@ Rule out: transaction costs, social image, projection bias, limited memory, time
 
 What then?
 
-**Time inconsistency with (partial naivite)** $\beta < \hat{\beta} \leq 1$ : *future attendance overestimation*. Not necessarily demand for commitment if $\hat{\beta} = 1$ 
-**Overestimation of net benefits**: *unrealistic expectations about future attendance* and costs of switching compunded by projection bias
+**Time inconsistency with (partial naivete)** $\beta < \hat{\beta} \leq 1$ : *future attendance overestimation*. Not necessarily demand for commitment if $\hat{\beta} = 1$ 
+**Overestimation of net benefits**: *unrealistic expectations about future attendance* and costs of switching compounded by projection bias
 
 **Leading explanations summary**: overestimation of future self-control or future efficiency
 
 
-## Do people demmand commitment? Do people commit optimally?
+## Do people demand commitment? Do people commit optimally?
 
-**Commitment device**: an institution that allow a person to restrict their future choice set (by increasing costs or makeing them unavailable)
+**Commitment device**: an institution that allow a person to restrict their future choice set (by increasing costs or making them unavailable)
 
 Time-inconsistent preferences: different selves differ
 
-Demand for commitment requieres (at least partial) sophistication
+Demand for commitment requires (at least partial) sophistication
 
 ### Examples
 ![[Pasted image 20220907092855.png]]

@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "055857dbe1038bb7",
-        "type": "tabs",
+        "id": "e8d566f0a6d54973",
+        "type": "split",
         "children": [
           {
-            "id": "bb43d228965c107a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Microeconomics/Micro1 - Introduction.md",
-                "mode": "source",
-                "source": false
+            "id": "055857dbe1038bb7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bb43d228965c107a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Advanced Microeconomics/Micro Exam Considerations.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "25114f9ff9e450ab",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "536c0274eb769cbf",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Microeconomics/Micro1 - Introduction.md",
+                "file": "Advanced Microeconomics/Micro Exam Considerations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Microeconomics/Micro1 - Introduction.md",
+                "file": "Advanced Microeconomics/Micro Exam Considerations.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Microeconomics/Micro1 - Introduction.md"
+                "file": "Advanced Microeconomics/Micro Exam Considerations.md"
               }
             }
           },
@@ -158,19 +179,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "bb43d228965c107a",
   "lastOpenFiles": [
+    "Advanced Microeconomics/Micro1 - Introduction.md",
     "Advanced Microeconomics/Micro Exam Considerations.md",
-    "Advanced Macroeconomics/Macro8 - Expectations and Lucas critique.md",
-    "Advanced Macroeconomics/Macro7 - Unconventional MP.md",
-    "Advanced Macroeconomics/Macro6 - The Liquidity Trap.md",
     "Advanced Microeconomics/Micro7 - Social Preferences.md",
     "Advanced Microeconomics/Micro6 - Social Preferences.md",
     "Advanced Microeconomics/Micro5 - RDP.md",
     "Advanced Microeconomics/Micro4 - Uncertainty.md",
     "Advanced Microeconomics/Micro3  - TP Evidence.md",
-    "Advanced Microeconomics/Micro2 - Time Preferences.md"
+    "Advanced Microeconomics/Micro2 - Time Preferences.md",
+    "Excalidraw/Timetable 22-23 first trimester.md",
+    "Advanced Macroeconomics/Macro8 - Expectations and Lucas critique.md"
   ]
 }
