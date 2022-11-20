@@ -13,15 +13,15 @@ We need policies to affect either $\varphi$ or $\pi_{t+1}$ or both
 
 ## Forward Guidance
 [[Macro6 - The Liquidity Trap]] 
-In a #liquidity_trap current equlibrium ($y_t, \pi_t$) depends on future inflation via $r_t$ 
+In a #liquidity_trap current equilibrium ($y_t, \pi_t$) depends on future inflation via $r_t$ 
 $$r_t = \varphi-\pi_{t+1}$$
-Suppose the CB will recover control of $r_{t+1}$ so it can announce tht at time $t$ (during the liquidity trap) that it will seta particularly value of $r_{t+1}$ (*once out* of the trap)
+Suppose the CB will recover control of $r_{t+1}$ so it can announce that at time $t$ (during the liquidity trap) that it will set a particularly value of $r_{t+1}$ (*once out* of the trap)
 
 This should **boost expected inflation** $\pi_{t+1}$ **and feed back to** ($y_t,\pi_t$)
 ![[Pasted image 20220904225537.png]]
 
 **The higher future inflation the lower the real interest rate**
-- FG may not be credible (krugman) since it requires the CB to deviate from inflation targeting at a time when macro conditions have gone back to normal
+- FG may not be credible (Krugman) since it requires the CB to deviate from inflation targeting at a time when macro conditions have gone back to normal
 It may be *time inconsistent*: CB commits today to do something suboptimal tomorrow
 
 ## Large scale asset purchases (LSAP)
@@ -33,12 +33,12 @@ There are two types:
 Operations are interventions on the interbank market that do not change the size of the CB's balance sheet because they are *sterilized*
 
 - CBs *buys* some assets from private banks
-- Cbs *resell* other assetst to the banking system for the same amount
+- CBs *resell* other assets to the banking system for the same amount
 But for both of these $R^s$ does not change
 
 **CB holds riskier assets and the financial sector hold less risky assets**
 
-### Quantittive easing
+### Quantitative easing
 The operations are *not sterilized*
 
 CB *buys* assets from private banks by rising the amount of $R^s$ on the account of the selling banks and just lets the size of its *balance sheet increase*
@@ -63,9 +63,9 @@ QE increases $R^s$ but at the #zero_lower_bound  and increase in $R^s$ has almos
 
 An increase in $R^s$ puts a *downward pressure* on the nominal interest rate *ounce out of the liquidity trap*
 
-QE may **signal** on accomodative policy stance in the future (raise inflation expectations to bring down $r_t$ and $y_t$ during the liquidity trap)
+QE may **signal** on accommodative policy stance in the future (raise inflation expectations to bring down $r_t$ and $y_t$ during the liquidity trap)
 
-- QE suffers from *time inconsistenty* same as FG
+- QE suffers from *time inconsistency* same as FG
 - QE requires a *double commitment* on high reserves and low $r_t$
 
 The first QE in Japan was unsuccessful as inflation expectations did not change
@@ -83,7 +83,7 @@ this is why some CBs have been able to set $i^R$ *slightly* below zero. How low 
 - One proposal consist in gradually phase out banknotes and ultimately *only* use *electronic money*. Lower bound $\underline{i^B}$ **would mechanically disappear**
 - Other less radical proposals aim at *keeping banknotes while raising their holding costs*. This would allow CBs to **lower $\underline{i^B}$ to more negative values**
 
-**Main limitation:** #assumption that traditional transmission channel of monetary policy is unchanged after crossing the ZLB. Recent empirical work casts *doubts about this view*: depost rate remains non-negative despite negative policy rates
+**Main limitation:** #assumption that traditional transmission channel of monetary policy is unchanged after crossing the ZLB. Recent empirical work casts *doubts about this view*: deposit rate remains non-negative despite negative policy rates
 
 ### A higher inflation target
 ![[Pasted image 20220904233414.png]]
