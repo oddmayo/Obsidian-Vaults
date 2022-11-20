@@ -9,12 +9,12 @@ The instruments under direct control (linked to $r$) of the CB are:
 We need to follow *3 steps*:
 1. Use the *fisher equation* $\rightarrow$ connect $r$ and $i$
 2. Use the *term structure* of interest rate $\rightarrow$ from long to short maturity
-3. Use the i*nterbank market* for reserve money $\rightarrow$ connect $i$ and $R$
+3. Use the *interbank market* for reserve money $\rightarrow$ connect $i$ and $R$
 
 ## 1. Inflation expectations and the Fisher Equation
 **Fisher Equation:**  $r_t=i_t-\pi_{t+1}$ 
 
-A vaue of $r_t$ is *equivalent* to $i_t$ conditional upon knowledge of inflation expectations
+A value of $r_t$ is *equivalent* to $i_t$ conditional upon knowledge of inflation expectations
 
 We assume perfect foresight $\pi_{t+1}^e=\pi_{t+1}$ (CB has info on  $\pi_{t+1}^e$ thanks to surveys and models)
 
@@ -59,9 +59,9 @@ Call $i^M$ the short term nominal interest rate, nor freely set by the CB but by
 - By interbank *loan*
 - By outright *payment*
 
-$i^M$ is the reate at which banks lend to each other in the very short runon the interbank market
+$i^M$ is the rate at which banks lend to each other in the very short run on the interbank market
 
-$i^M$ is the **equilibrum interest rate** on interbank loans
+$i^M$ is the **equilibrium interest rate** on interbank loans
 
 Reserves that banks hold on accounts at the CB earn the *interest rate on reserves* $i^R$ 
 

@@ -28,7 +28,7 @@ Aggregate demand $y_\infty= y_\infty^n$ (through prices)
 In the long-run aggregate #demand $y_\infty$ is **determined entirely by** aggregate #supply
 
 ### Short-run vs Long-run
-- *Short run*: prices do not fully adjust in reaction to shocks (due to *nominal #rigidities*); inflationary/deflationary pressures; *real interest rate determines aggegrate demand*
+- *Short run*: prices do not fully adjust in reaction to shocks (due to *nominal #rigidities*); inflationary/deflationary pressures; *real interest rate determines aggregate demand*
 - **Long run**: prices fully adjusted so inflation is constant; equality between demand and supply determines the market clearing $r_\infty$ 
 
 In equilibrium ![[Pasted image 20220904114434.png]]
@@ -72,9 +72,9 @@ The shock has a long lasting effect on the interest rate
 **Mechanism:**
 ![[Pasted image 20220904123555.png]]
 
-Example: positive productiviry shock $z_t \uparrow$  or a regulation shock $\mu^* \downarrow$
+Example: positive productivity shock $z_t \uparrow$  or a regulation shock $\mu^* \downarrow$
 
-**Magnitude:** the impacts on $y_t$ and $\pi_t$ are larger whent the AS curve is steeper (*K large*) [shock multipliers]
+**Magnitude:** the impacts on $y_t$ and $\pi_t$ are larger when the AS curve is steeper (*K large*) [shock multipliers]
 ![[Pasted image 20220904123823.png]]
 
 
@@ -91,7 +91,7 @@ In the *long run* ![[Pasted image 20220904124312.png]]
 The AD-AS model can **replicate short run effects of** $dz_t$:
 with *nominal rigidities* ($0<w<1$) the reduction in firms real marginal costs ($w_t-p_t-z_t$) due to $dz_t>0$ is *only partially* reflected in lower prices
 
-output is constrained by demand not increasing enough and an increase in productivity allows to serve this demans with less labor input $l_t \downarrow$
+output is constrained by demand not increasing enough and an increase in productivity allows to serve this demands with less labor input $l_t \downarrow$
 
 ## Business fluctuations in AD-AS model
 The economy so far features **two different distortions** relative to a situation in perfect competition
@@ -104,7 +104,7 @@ The economy so far features **two different distortions** relative to a situatio
 ![[Pasted image 20220904125101.png]]
 
 
-**Cyclycal fluctuations in** $y_t$ come from:
+**Cyclical fluctuations in** $y_t$ come from:
 - fluctuations in $y_t^{cp}$ (due to AS shocks)
 - fluctuations in output gap (due to AD and AS shocks under nominal rigidities)
 

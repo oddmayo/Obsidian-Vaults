@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Macroeconomics/Macro3 - Aggregate Supply.md",
+                "file": "Advanced Macroeconomics/Macro7 - Unconventional MP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Macroeconomics/Macro3 - Aggregate Supply.md",
+                "file": "Advanced Macroeconomics/Macro7 - Unconventional MP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Macroeconomics/Macro3 - Aggregate Supply.md",
+                "file": "Advanced Macroeconomics/Macro7 - Unconventional MP.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Macroeconomics/Macro3 - Aggregate Supply.md"
+                "file": "Advanced Macroeconomics/Macro7 - Unconventional MP.md"
               }
             }
           },
@@ -162,15 +162,15 @@
   },
   "active": "bb43d228965c107a",
   "lastOpenFiles": [
-    "Advanced Macroeconomics/Macro2 - Aggregate Demand.md",
+    "Advanced Macroeconomics/Macro6 - The Liquidity Trap.md",
+    "Advanced Macroeconomics/Macro5 - Monetary Policy.md",
+    "Advanced Macroeconomics/Macro8 - Expectations and Lucas critique.md",
+    "Advanced Macroeconomics/Macro7 - Unconventional MP.md",
+    "Advanced Macroeconomics/Macro4 - AD-AS Eq..md",
+    "Advanced Macroeconomics/Macro1 - Introduction.md",
     "Advanced Macroeconomics/Macro3 - Aggregate Supply.md",
+    "Advanced Macroeconomics/Macro2 - Aggregate Demand.md",
     "Advanced Microeconomics/Micro Exam Considerations.md",
-    "Advanced Microeconomics/Micro7 - Social Preferences.md",
-    "Advanced Microeconomics/Micro6 - Social Preferences.md",
-    "Advanced Microeconomics/Micro5 - RDP.md",
-    "Advanced Microeconomics/Micro4 - Uncertainty.md",
-    "Advanced Microeconomics/Micro3  - TP Evidence.md",
-    "Advanced Microeconomics/Micro2 - Time Preferences.md",
-    "Advanced Microeconomics/Micro1 - Introduction.md"
+    "Advanced Microeconomics/Micro7 - Social Preferences.md"
   ]
 }

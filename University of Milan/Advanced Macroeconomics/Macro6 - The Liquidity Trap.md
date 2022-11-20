@@ -13,7 +13,7 @@ Occurs when a period of *very low interest rates* and a *high amount of cash* ba
 ---
 **Road map**
 - *Circumstances* that may drive the economy into de liquidity trap
-- Are there unconventional macroeoconmic policies
+- Are there unconventional macroeconomic policies
 
 ---
 
@@ -21,15 +21,15 @@ Occurs when a period of *very low interest rates* and a *high amount of cash* ba
 
 - Accumulation of toxic mortgages
 - Reduced access to new credit
-- Increse in mortgages delinquencyrates $\rightarrow$ doubts about the credit worthiness of banks
-- Freezing of the interbank market $\rightarrow$ lead to bankrupcy of all banks (temporary liquidity shortage)
+- Increase in mortgages delinquency rates $\rightarrow$ doubts about the credit worthiness of banks
+- Freezing of the interbank market $\rightarrow$ lead to bankruptcy of all banks (temporary liquidity shortage)
 
 *Can the CB do something?* $\rightarrow$ Lend the required liquidity directly to illiquid banks (**loan of last resort**)
 
 ## From financial crisis to real recession
 
 ### Channel 1: increase in credit spreads
-Banks finance their lending by issuing *short term liabilities*. They were percieved as safe but panic emerged among investors in 2007
+Banks finance their lending by issuing *short term liabilities*. They were perceived as safe but panic emerged among investors in 2007
 
 Subprime mortgages had been combined with other types of credit in complicated securities so investors lost confidence
 
@@ -63,7 +63,7 @@ When $i^R < i^B$ banks prefer holding banknotes, so CB must keep $i^R \geq \unde
 When the Great Recession started $i^R = \underline{i^B}$ this constrain started to *bind*
 
 ## The ZLB and the liquidity trap
-Oce the CB has lowered $i^R$ to $\underline{i^B}$ flooding the interbank market with additional liquidity (rising $R^s$) can only lower $i^M$ down to $i^R \simeq \underline{i^B}$ but no further
+Once the CB has lowered $i^R$ to $\underline{i^B}$ flooding the interbank market with additional liquidity (rising $R^s$) can only lower $i^M$ down to $i^R \simeq \underline{i^B}$ but no further
 
 Once $i^R \simeq \underline{i^B}$ reserves and interbank loans become *almost perfect substitutes*
 

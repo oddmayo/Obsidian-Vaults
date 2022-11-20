@@ -21,7 +21,7 @@ This should **boost expected inflation** $\pi_{t+1}$ **and feed back to** ($y_t,
 ![[Pasted image 20220904225537.png]]
 
 **The higher future inflation the lower the real interest rate**
-- FG may not be credible (krugman) since ir requires the CB to deviate from inflation targeting at a time when macro conditions have gone back to normal
+- FG may not be credible (krugman) since it requires the CB to deviate from inflation targeting at a time when macro conditions have gone back to normal
 It may be *time inconsistent*: CB commits today to do something suboptimal tomorrow
 
 ## Large scale asset purchases (LSAP)

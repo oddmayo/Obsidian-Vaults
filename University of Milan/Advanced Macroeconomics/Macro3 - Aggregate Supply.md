@@ -57,7 +57,7 @@ In the **natural** equilibrium all firms set $P_{i,t} = P_t^*$ in each period $t
 
 ### Properties
 1. perfectly symmetric: same $P_t, l^n, y_t^n$ 
-2. imperfect competition $\mu>0$ [positive markup], $y_t^n, l^n$ are smaller than in perfeft competition
+2. imperfect competition $\mu>0$ [positive markup], $y_t^n, l^n$ are smaller than in perfect competition
 3. *output and employment* are determined by *real factors* ($z_t, \mu^*$) and are insensitive to any demand shock $\theta_t$ that does not modify the real factors
 Any change in demand $y^n$ that mismatches its natural level its going to be fully *absorbed* by the flexible prices
 
@@ -68,8 +68,8 @@ Nominal prices are sticky in the short run
 After a macroeconomic #shocks, only some firms adjust their selling prices
 
 - In each $t$ only a *fixed proportion $1-w$* of firm gets the chance to adjust the selling price
-- Equivelently, each firm has an equal probability $1-w$ of adjusting price in each $t$ 
-- The remaining fraction of firms **w** do not adjust the price and apply on *indexation rule*
+- Equivalently, each firm has an equal probability $1-w$ of adjusting price in each $t$ 
+- The remaining fraction of firms **w** do not adjust the price and apply an *indexation rule*
 	![[Pasted image 20220904103937.png]]
 
 ![[Pasted image 20220904104245.png]]
@@ -84,7 +84,7 @@ We have 3 equations:
 - *Long run*: CB is able toa avoid hyperinflations ($t \rightarrow \infty$); inflation converges to an infinite level (constant) $y_\infty=y_\infty^n$ ; no trade-off between #inflation and output
 - *Short run*: the dynamics of inflation changes reflect transitory imbalances between $l^d$ and $\zeta$; CB adjusts $r_t$ so that $y_t \rightarrow y_t^n$ 
 
-$y_t^n$ is not observable (it's a theoretical concept) but it is sufficient to examine the inflation path to make appropiate *monetary policy decisions*: #inflation_targeting 
+$y_t^n$ is not observable (it's a theoretical concept) but it is sufficient to examine the inflation path to make appropriate *monetary policy decisions*: #inflation_targeting 
 
 ## The natural interest rate
 ![[Pasted image 20220904105259.png]]
@@ -94,7 +94,7 @@ We can define it as **the real interest rate that would prevail in the hypotheti
 ![[Pasted image 20220904105436.png]]
 
 Slope of AS increases with time horizon $s$
-*AS curve* is often refered to as #phillips_curve
+*AS curve* is often referred to as #phillips_curve
 It is not observable:
 1. Approximate $y_t^n$ with an smoothed version of $y_t^n$
 2. Use other observable variable linked to the output gap
